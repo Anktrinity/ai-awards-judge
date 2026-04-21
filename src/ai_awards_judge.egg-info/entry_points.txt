@@ -1,2 +1,0 @@
-[console_scripts]
-ai-awards-judge = ai_awards_judge.cli.main:main
