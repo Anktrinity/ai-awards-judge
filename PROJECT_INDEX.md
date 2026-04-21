@@ -1,21 +1,28 @@
-# AI Awards Judging Project
+# AI Awards Judge Project Index
 
-This folder is the single home for this judging project.
+This repository is now the **public-safe core** of the judging system.
 
-## Key files
-- `award_judging_report.md`
-- `award_review/master-score-sheet.md`
-- `award_review/judge-calibration-memo.md`
-- `award_review/evidence-confidence-notes.md`
-- `award_review/scripts/run_award_intake.sh`
+## Key public files
+- `README.md`
+- `JUDGE_SCORING_GUIDE.md`
+- `config/rubric.yaml`
+- `config/categories.yaml`
+- `config/prompts.yaml`
+- `docs/methodology.md`
+- `docs/hybrid-publishing.md`
+- `src/ai_awards_judge/cli/main.py`
 
-## Intake source
-Default source folder:
-`~/Downloads/2026_SPEAKING/2026_AI Awards Judge`
+## Sanitized examples
+- `examples/sample_input/`
+- `examples/sample_output/`
 
-## Re-run workflow
-Run:
-`award_review/scripts/run_award_intake.sh`
+## Private archive reference
+Confidential intake files, real entrant submissions, extracted text, and internal judging outputs were intentionally moved out of this public repo.
 
-Then update scoring/reporting from the extracted text in:
-`award_review/extracted_text/`
+Reference:
+- `private_archive_reference/README.md`
+
+## Intended next implementation step
+Build the scoring engine behind:
+
+`ai-awards-judge run ./entries --config ./config/rubric.yaml --out ./outputs`

@@ -1,0 +1,16 @@
+Category: Best AI for Registration & Onboarding
+Entrant: ExampleFlow
+Company: Example Labs
+Product: ExampleFlow Check-In AI
+
+Summary:
+ExampleFlow uses AI to pre-screen registration anomalies, reduce duplicate records, and speed up onsite check-in.
+
+Evidence:
+- Pilot used across 3 mid-size events
+- Check-in time reduced from 95 seconds to 28 seconds
+- Support tickets reduced by 41%
+- Organizer satisfaction score improved from 7.2 to 8.8
+
+Notes:
+Early-stage product with credible pilot data and clear category fit.

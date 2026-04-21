@@ -1,0 +1,16 @@
+Category: Most Innovative AI Application in Events
+Entrant: SignalStage
+Company: SignalStage Systems
+Product: SignalStage Session Intelligence
+
+Summary:
+SignalStage turns live sessions into searchable action summaries, sponsor insights, and audience question clusters.
+
+Evidence:
+- Deployed at 6 events
+- 82% of organizers reused generated summaries
+- 29% increase in post-event content consumption
+- 2 enterprise renewals attributed in part to reporting workflow
+
+Notes:
+Strong execution and evidence, though some metrics are portfolio-level rather than feature-isolated.
