@@ -1,0 +1,285 @@
+
+
+===== PAGE 1 =====
+
+ Golden, EventWeb, Ryan  IFHWEKG3TH5T6SQ
+Event Technology Awards: AI Edition
+Questions / Answers
+ENTRANT DETAILS
+First Name
+Ryan
+Last Name
+Golden
+Email
+rgolden@myeventweb.com
+Contact Number
+516-428-3230
+COMPANY INFORMATION
+Company / Organisation Name
+EventWeb
+Product Name (optional)
+ExhibitGen (Access and try out ExhibitGen at http://www.ExhibitGen.ai )
+Company proﬁle
+EventWeb is a comprehensive digital ecosystem designed speciﬁcally for the tradeshow and corporate event industry. 
+We streamline the complex logistics of event planning by connecting producers, account managers, and service 
+providers into a single, cohesive platform. By centralizing the RFP process, vendor sourcing, and project management, 
+EventWeb eliminates the friction traditionally associated with bringing large-scale events to life. Our mission is to 
+empower event professionals with cutting-edge tools that reduce overhead, accelerate timelines, and foster seamless 
+collaboration from the initial concept phase straight through to execution on the show ﬂoor.
+YOUR PRODUCT
+  Most Innovative AI Application in Events
+Celebrating groundbreaking AI ideas or applications that push the industry forward and deliver clear, creative impact.
+
+===== PAGE 2 =====
+
+Questions / Answers
+Description of your technology
+ExhibitGen is EventWeb’s proprietary AI RFP Wizard, built to revolutionize the conceptualization and bidding phase of 
+tradeshow exhibit design. Traditionally, event managers rely on text-heavy briefs and back-and-forth discovery calls, 
+which often result in a costly "vision gap" between the client’s expectations and the producer’s initial designs. 
+ExhibitGen solves this by integrating an AI-driven design generator directly into the RFP workﬂow.
+Users are guided through a structured input process, deﬁning their needs, footprint, and aesthetic goals. In seconds, 
+ExhibitGen translates these inputs into high-quality, conceptual visual renders. Crucially, the technology includes a 
+"tweak and regenerate" feature, allowing account executives and clients to iterate on the ﬂy during discovery calls. 
+Once a visual concept is locked in, ExhibitGen seamlessly integrates the output with EventWeb’s Producer Directory, 
+instantly transitioning a visual concept into an actionable, multi-vendor request for quotation. It is not just an image 
+generator; it is an end-to-end procurement acceleration tool.
+Access and try out ExhibitGen at http://www.ExhibitGen.ai (http://www.ExhibitGen.ai) 
+TECHNOLOGY DESCRIPTION
+Explain how the AI works in your solution?
+ExhibitGen utilizes a multimodal AI architecture combining natural language processing (NLP) with an advanced 
+generative image model. The NLP layer parses the structured data from the user’s guided RFP inputs—such as booth 
+dimensions, desired materials, interactive elements, and brand themes. It translates this data into highly optimized, 
+weighted prompts. These prompts are then fed into our generative visual model, which has been ﬁne-tuned to 
+understand spatial dynamics, lighting, and common architectural structures used in the events industry. The output is a 
+high-ﬁdelity rendering that stakeholders can immediately review, modify via conversational text tweaks, and attach to 
+their formal EventWeb bid requests.
+What speciﬁc problem does this AI solve?
+It solves the "vision gap" and the bottleneck of pre-sales design. Before a formal design team commits hours to CAD 
+drawings and 3D models—often a sunk cost if the client goes another direction—stakeholders struggle to align on a 
+shared visual language. ExhibitGen provides instant visual context. It allows account executives to close the 
+conceptual gap on a single discovery call, securing client buy-in before heavy design and engineering resources are 
+deployed.
+What makes your approach diﬀerent or innovative?
+While other AI image generators exist in a vacuum, ExhibitGen is speciﬁcally contextualized for the business of events. 
+Our innovation lies in the workﬂow integration. The AI doesn't just create a compelling image; the generated render is 
+tethered to EventWeb’s procurement mechanics. We recognize that AI is a tool for aesthetic alignment, not ﬁnal 
+engineering. Once the visual direction is locked in, users easily transition from ideation to action. They utilize their 
+generated concepts to source a compatible producer from our directory and attach the visuals directly to their formal 
+RFP. It turns AI from a simple brainstorming novelty into a highly functional bridge between conceptualization and 
+actionable vendor sourcing, signiﬁcantly reducing friction without forcing users into a rigid pipeline.
+VALIDATION
+
+===== PAGE 3 =====
+
+Questions / Answers
+How did you test, validate, or quality-check the AI outputs to ensure they were accurate, safe, or reliable?
+Our validation process focused on practical usability and aesthetic alignment rather than ﬁnal engineering readiness. 
+Because ExhibitGen is designed as an ideation tool—not a replacement for structural CAD design—our testing 
+prioritized the AI's ability to interpret event-speciﬁc prompts and generate relevant visual concepts.
+We conducted extensive internal "prompt-to-reality" testing, running over 50 rigorous, varied RFP scenarios to 
+evaluate the outputs. We monitored how the model handled complex requests like multi-level booths, speciﬁc lighting 
+moods, and brand color integration. During this testing phase, we identiﬁed that while the AI excels at rapid 
+visualization, it occasionally generates structurally ambitious or "wild" concepts. We view this as a feature of the 
+brainstorming process, not a bug. To account for this, the platform is explicitly framed to ensure users understand 
+these renders are aesthetic starting points that require human guidance and professional reﬁnement. By setting clear 
+expectations and rigorously testing the prompt boundaries, we validated that the tool successfully serves its primary 
+purpose: eliminating the "blank page" problem and accelerating visual alignment before formal engineering begins. Our 
+terms of service explicitly separate this conceptual generation from the liability of ﬁnal, structurally sound designs.
+IMPACT
+In one summary, explain the overall impact of your AI solution. Please cover four areas: innovation, execution, user or
+customer outcomes, and measurable results.
+Innovation
+ExhibitGen represents a paradigm shift from asynchronous, manual design brieﬁngs to synchronous, AI-assisted visual 
+alignment. It democratizes the initial design phase, allowing non-technical account managers to visually express 
+complex ideas instantly.
+Execution
+The execution strategy for ExhibitGen was centered on intuitive integration rather than forced adoption. Event 
+professionals already manage complex logistics, so introducing a completely separate, standalone tool would create 
+unnecessary friction. Instead, we embedded the AI generation directly into the existing EventWeb user journey.
+As users navigate the standard RFP creation process, they are naturally intercepted and oﬀered the option to utilize the 
+AI Wizard. This contextual placement ensures the technology feels like an extension of their workﬂow rather than an 
+interruption. We designed the interface to be highly accessible, requiring zero prior prompt-engineering experience. 
+The guided input forms translate everyday event terminology into optimized AI prompts behind the scenes. This 
+frictionless execution strategy allows users to instantly see the value of translating their text-based requirements into 
+high-ﬁdelity 3D conceptual renderings without leaving the procurement environment.
+
+===== PAGE 4 =====
+
+Questions / Answers
+Outcome
+The primary outcome of ExhibitGen is a radical acceleration in the speed to visual alignment, beneﬁting both sides of 
+the event planning ecosystem: the buyers and the builders.
+For event managers and corporate clients, the outcome is the democratization of design. Historically, clients without a 
+technical design background struggle to articulate their spatial and aesthetic needs, often relying on fragmented 
+inspiration boards or vague text descriptions. ExhibitGen empowers them to instantly visualize their ideas, tweak 
+parameters, and arrive at a cohesive concept before speaking to a vendor. This drastically reduces the anxiety of the 
+procurement phase, ensuring clients feel conﬁdent that their visual expectations are clearly communicated.
+Equally important are the outcomes for account managers and sales teams at event production companies. For these 
+professionals, ExhibitGen serves as a powerful onboarding and pre-sales tool. When an account manager receives a 
+new lead, they can use the Wizard during live discovery calls to generate concepts in real-time. This interactive 
+process entirely transforms the initial client meeting from a standard Q&A session into a collaborative design 
+workshop. By bridging the "vision gap" immediately, account managers can secure client buy-in much faster. It fosters 
+a more collaborative, eﬃcient, and visually uniﬁed relationship between the buyer and the builder right from the ﬁrst 
+interaction.
+Results
+As a newly launched addition to the EventWeb platform, our initial results are measured by the high quality and 
+practical applicability of the visual outputs rather than long-term aggregated metrics. The most compelling evidence of 
+the tool's immediate success is our extensive public gallery of generated examples.
+These renders demonstrate the AI's remarkable capacity to interpret diverse industry requests—from sleek, minimalist 
+technology pavilions to immersive activations. The gallery serves as a testament to the fact that the tool reliably 
+produces high-ﬁdelity, presentation-ready concepts that rival traditional, time-consuming mood boards. By providing 
+users with immediate access to these high-quality visuals, the platform is already proving its core value proposition: 
+saving time and reducing miscommunication. The immediate, veriﬁable result for any user is the ability to attach a 
+stunning, bespoke visual concept to their RFP, ensuring that the quotes they receive are based on a shared, concrete 
+vision.
+CASE STUDY
+Describe how the AI was used in practice.
+To illustrate the practical impact of ExhibitGen, we can examine a recent use case involving a major industrial brand 
+preparing for a large-scale national tradeshow. Typically, the initial alignment phase for a project of this size is highly 
+iterative. The client and the production team often spend weeks exchanging emails, reference images, and revised 
+briefs before formal design even begins.
+In this instance, the production account manager utilized ExhibitGen during the initial onboarding and discovery phase. 
+By inputting the client’s spatial requirements and aesthetic preferences directly into the Wizard, they generated a series 
+of high-quality conceptual renders in real-time. Instead of waiting days for a preliminary sketch, the client was able to 
+react to the visuals instantly on the call, making conversational tweaks to the layout and branding elements until the 
+digital representation matched their internal vision.
+
+===== PAGE 5 =====
+
+Questions / Answers
+What measurable results or improvements did it deliver?
+(Include any evidence that shows real-world impact.) 
+The results of integrating ExhibitGen into this speciﬁc pitch were immediate and ﬁnancially measurable. By locking in a 
+concrete design direction on the front end during the initial discovery phase, the team eliminated an estimated 20 
+hours of traditional back-and-forth communication and brief revisions.
+Because the visual expectations were clearly established and agreed upon, the producer's internal 3D and CAD 
+departments bypassed the speculative ideation phase entirely. They were able to start designing directly from the 
+approved AI concept, saving approximately 40 hours of preliminary design labor. Assuming a standard blended agency 
+rate of $150 per hour for specialized design and account management time, ExhibitGen eﬀectively saved $9,000 in soft 
+costs on this single pitch alone. This streamlined visual alignment rapidly accelerated the timeline from initial inquiry to 
+a contracted project, directly contributing to the successful closing of the build, which ﬁnalized at a total cost of 
+$247,371.40 inclusive of fabrication and event services.
+Extrapolated Industry Impact & Waste Reduction
+To understand the macro-economic value of ExhibitGen, we can extrapolate these single-pitch savings across a 
+standard mid-sized event production company generating $10 million annually (assuming half of that revenue comes 
+from custom design-build projects). At an average project size of $250,000, this company executes roughly 20 major 
+builds a year. However, factoring in a standard industry pitch win rate of 33%, the company’s internal teams are 
+actually executing 60 full speculative pitches annually.
+The event production industry is notorious for a massive amount of speculative waste during the pre-sales process. By 
+utilizing ExhibitGen to handle the preliminary visual ideation for all new business RFPs, this theoretical company saves 
+an estimated $9,000 in soft costs per pitch. Across 60 annual pitches, ExhibitGen recovers $540,000 in previously 
+unbillable, sunk labor costs. This eﬀectively returns over half a million dollars of billable capacity to the company's 
+bottom line—money and time that can be reallocated from speculative brainstorming into active project execution.
+Crucially, ExhibitGen actively drives revenue and scales operational capacity. By bridging the 'vision gap' immediately, 
+producers build day-one trust, transforming from vendors into collaborative partners and directly increasing their pitch 
+win rate. Furthermore, by bypassing the speculative ideation phase and eﬀectively cutting preliminary design time in 
+half, ExhibitGen removes the notorious bottleneck of the design queue. This allows production houses to essentially 
+double their RFP throughput without expanding their design headcount, empowering them to aggressively pursue 
+more jobs annually while closing a higher percentage of the work they pitch.
+MODEL TRANSPARENCY (optional)
+What type of AI model or technique does your solution use? Please provide a simple, high-level explanation that
+helps judges understand the approach (no conﬁdential or proprietary details required).
+ExhibitGen leverages a proprietary pipeline utilizing Large Language Models (LLMs) to process and structure the user's 
+RFP text inputs. This processed data serves as the framework for a state-of-the-art diﬀusion-based, text-to-image 
+generative model, which is speciﬁcally guided by parameters relevant to architectural design and spatial planning to 
+ensure realistic, highly usable aesthetic outputs for the event industry.
+SUPPORTING MATERIAL
+
+===== PAGE 6 =====
+
+Scoring  Un-pin scoring panel
+Questions / Answers
+Video Link (optional)
+()
+1. Additional upload if required, screenshots, dashboards, examples, test results
+IFHWEKG3TH5T6SQ_ACME_Fashion_RFP.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/21917915-1140-4f3b-97d1-
+8cc76df6f785/IFHWEKG3TH5T6SQ_ACME_Fashion_RFP.pdf)
+2. Additional upload if required, screenshots, dashboards, examples, test results
+IFHWEKG3TH5T6SQ_ACME_Flavored_Sodas_RFP.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/7f787ad7-3c4f-470a-965a-
+bf1f7a3aeabb/IFHWEKG3TH5T6SQ_ACME_Flavored_Sodas_RFP.pdf)
+3. Additional upload if required, screenshots, dashboards, examples, test results
+IFHWEKG3TH5T6SQ_ACME_Cellphone_Holders_RFP.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/e4ece4bc-9de1-4034-9aa9-
+c69a694ef9cf/IFHWEKG3TH5T6SQ_ACME_Cellphone_Holders_RFP.pdf)
+4. Additional upload if required, screenshots, dashboards, examples, test results
+IFHWEKG3TH5T6SQ_ACME_Heavy_Machinery_RFP.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/e4a5c1b5-b285-4c12-9c4e-
+946404e4abaf/IFHWEKG3TH5T6SQ_ACME_Heavy_Machinery_RFP.pdf)
+5. Additional upload if required, screenshots, dashboards, examples, test results
+IFHWEKG3TH5T6SQ_ExhibitGen_Rendering_Examples.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/b4eb4730-c23e-4769-8f77-
+64dc33d16d72/IFHWEKG3TH5T6SQ_ExhibitGen_Rendering_Examples.pdf)
+DECLARATION FIELD
+By completing this nomination you are agreeing to the terms and conditions and declare that this entry form is eligible
+for entry. You are conﬁrming all facts and ﬁgures contained within are accurate and true.
+I agree
+
+===== PAGE 7 =====
+
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+Criteria Score
+Innovation *
+How original and forward-thinking is the approach?
+Whether you built an AI solution, adopted AI within your own events operation, or are
+bringing an early-stage concept to market, judges want to see genuine originality.
+Has AI been applied in a new or distinctive way?
+Does it solve a real problem creatively rather than following the obvious path?
+Look beyond oﬀ-the-shelf deployment and assess the quality of thinking behind the
+approach.
+/ 100
+Impact *
+What diﬀerence has this made, or what diﬀerence is it credibly expected to make?
+For live solutions, look for concrete evidence -- engagement rates, time saved, revenue
+generated, cost reduction, satisfaction scores.
+For pilot or beta-stage entries, early indicators such as user testing results, pilot
+outcomes, letters of intent, or projected impact grounded in credible data are all valid.
+Strong entries will be speciﬁc, not vague.
+/ 100
+Execution *
+How well has this been implemented or developed?
+For suppliers and vendors, consider the quality of the build, the robustness of delivery,
+and how challenges were handled.
+For organisers, consider how well AI was embedded into operations and how the team
+managed change.
+For early-stage entries, assess the quality of the product so far, the clarity of the
+roadmap, and the credibility of the team's approach.
+Thoughtful, professional execution at any stage counts highly.
+/ 100
+S a ve
+
+===== PAGE 8 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Results *
+What has been achieved, and what does the evidence show?
+For established solutions, consider client outcomes, retention, testimonials, and industry
+recognition alongside hard metrics.
+For organisers, attendee feedback, operational improvements, and stakeholder
+satisfaction all count.
+For startups or beta entries, judges should look for credible progress -- pilot
+conversions, early user feedback, investment secured, or strategic partnerships -- and
+should assess potential alongside proven outcomes.
+Do not penalise entries for being early stage; reward evidence of meaningful progress
+and a clear path to impact.
+/ 100
+Total
+Feedback
+Dictation disable
+You speak: English
+Text will be: English
+ Start dictation  (20s)
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+-
+S a ve

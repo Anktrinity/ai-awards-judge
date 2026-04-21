@@ -1,0 +1,5 @@
+version: 1
+outputs:
+  report_template: templates/report_template.md
+  master_summary_template: templates/master_summary_template.md
+  manifest_filename: run_manifest.json

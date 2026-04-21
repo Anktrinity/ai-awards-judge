@@ -1,0 +1,549 @@
+
+
+===== PAGE 1 =====
+
+ Belcher, First SIght Media / MyGraduationClip, Rich  892FS0LDZ9TB4FB
+Event Technology Awards: AI Edition
+Questions / Answers
+ENTRANT DETAILS
+First Name
+Rich
+Last Name
+Belcher
+Email
+richbelcher@ﬁrstsight.media
+Contact Number
+07920798524
+COMPANY INFORMATION
+Company / Organisation Name
+First SIght Media / MyGraduationClip
+Product Name (optional)
+  Best Collaboration Between Agency/Organiser & AI Supplier
+Recognising partnerships that demonstrate eﬀective real-world application of AI with clear, measurable outcomes.
+
+===== PAGE 2 =====
+
+Questions / Answers
+Company proﬁle
+MyGraduationClip and First Sight Media have formed a market-leading partnership transforming how graduation 
+ceremonies are delivered and shared.
+First Sight Media is the UK’s leading provider of graduation video production, streaming, and AV solutions, working 
+with over 60 institutions and delivering more than 3,000 ceremonies each year. MyGraduationClip is the pioneer of 
+instant, personalised graduation video delivery, enabling graduates to receive and share their deﬁning on-stage 
+moment within minutes.
+Individually, both organisations are leaders in their ﬁelds. Together, we have created a fully integrated, end-to-end 
+solution that bridges live event production with AI-powered content delivery.
+This collaboration enables a seamless workﬂow from stage to social media. High-quality footage is captured through 
+First Sight Media’s award-winning production infrastructure and rapidly delivered into MyGraduationClip’s AI platform, 
+where it is transformed into personalised, shareable content at scale.
+The result is a signiﬁcantly enhanced graduation experience. Graduates receive their clips while the moment is still 
+fresh, driving proven higher social sharing and engagement, while universities beneﬁt from increased visibility, stronger 
+community connection, and valuable data insight.
+Together, this partnership has redeﬁned what is possible - turning graduation into a real-time, socially ampliﬁed, 
+community-driven digital experience globally.
+YOUR PRODUCT
+
+===== PAGE 3 =====
+
+Questions / Answers
+Description of your technology
+The combined solution developed by MyGraduationClip and First Sight Media integrates AI-powered content 
+processing with industry-leading live event production workﬂows to enable real-time, personalised video delivery at 
+scale.
+At its core, MyGraduationClip provides a multimodal AI platform that transforms full-length graduation recordings into 
+individualised, shareable clips. Using a combination of audio analysis, computer vision, and temporal pattern 
+recognition, the platform identiﬁes key moments within the ceremony - such as when each graduate is announced and 
+crosses the stage - and segments the footage into personalised videos. This replaces what was traditionally a manual 
+editing process, enabling hundreds or thousands of clips to be generated rapidly and consistently.
+However, the eﬀectiveness of this AI is directly dependent on the quality, structure, and speed of the input footage. 
+This is where First Sight Media’s role is crucial.
+As the UK’s leading provider of graduation video production, streaming, and AV solutions, First Sight Media delivers 
+high-quality, multi-camera footage through a production workﬂow speciﬁcally optimised for rapid processing and 
+upload to MyGraduationClip. Through close collaboration, this process has been reﬁned to ensure that footage is 
+captured, prepared, and transferred with minimal delay immediately following each ceremony (more speciﬁcally, 
+immediately after the last graduate has crossed the stage).
+This integration removes one of the biggest bottlenecks in traditional methods: the delay between ﬁlming and 
+processing. Where most solutions rely on delayed uploads or post-event handling, the combined approach enables 
+footage to move seamlessly from production into AI processing within minutes.
+The platform is also designed to operate in real-world conditions, handling variability in camera setups, lighting, and 
+audio quality without requiring a ﬁxed ﬁlming conﬁguration. This ﬂexibility allows the solution to be deployed 
+consistently across a wide range of institutions and ceremony formats.
+Once processed, clips are placed into pre-agreed branded templates and delivered instantly via a mobile-ﬁrst platform, 
+optimised for social sharing. The speed of this end-to-end system means that, in many cases, graduates receive their 
+personalised clips before the ceremony has even concluded.
+In summary, this collaboration combines AI-driven media processing with production-grade workﬂow design. By 
+creating a fully integrated system we’ve transformed complex live event footage into real-time, shareable content, and 
+signiﬁcantly redeﬁnes what is possible in graduation delivery.
+TECHNOLOGY DESCRIPTION
+
+===== PAGE 4 =====
+
+Questions / Answers
+Explain how the AI works in your solution?
+Our AI combines audio analysis, computer vision, temporal pattern matching, and conﬁdence-based validation to 
+transform full-length graduation recordings into personalised clips at scale.
+1. Audio Segmentation (ASR)
+Automatic speech recognition analyses ceremony audio and identiﬁes likely name-announcement moments. As audio 
+can be noisy and names vary in pronunciation, we do not rely on a ﬁxed name list. Instead, each registered graduate’s 
+name is matched to likely segments using text-similarity techniques.
+2. Visual Detection (Computer Vision)
+In parallel, the system analyses video to track how individuals enter the frame, cross the stage, and exit, while also 
+identifying camera angle changes. As ceremonies follow consistent patterns, this enables detection of likely “graduate 
+moment” sequences.
+3. Matching & Validation
+The most likely audio and video segments are aligned to generate a clip, with matches ranked by conﬁdence. Where 
+needed, graduates conﬁrm their identity via a small set of thumbnails, ensuring accuracy without slowing delivery.
+4. Clip Generation
+Validated footage is placed into a pre-built template with branding, messaging, and optional calls to action, creating a 
+personalised, shareable video.
+Within the collaboration, First Sight Media’s production workﬂow ensures that high-quality footage is delivered rapidly 
+into the AI system - enabling fast, reliable clip generation.
+What speciﬁc problem does this AI solve?
+Graduation is one of the most emotional and shareable moments in a person’s life, but historically it has not been 
+delivered in a way that supports real-time social sharing or sustained community engagement.
+Traditionally, graduates either had to watch full-length ceremony recordings to ﬁnd their moment, or wait days or weeks 
+for manually edited clips. By the time content became available, the peak moment for sharing had passed - 
+signiﬁcantly limiting social reach, engagement, and the opportunity to build meaningful connections.
+While AI has the potential to solve this, it cannot do so in isolation. Without high-quality footage delivered quickly and 
+consistently, even the most advanced AI systems are constrained by delays in the production workﬂow.
+This is the problem our collaboration solves.
+By combining First Sight Media’s production infrastructure with MyGraduationClip’s AI platform, we have created a 
+fully integrated workﬂow that enables high-quality footage to be captured and transferred immediately after each 
+ceremony, then processed into personalised clips within minutes.
+This removes the traditional delay between ﬁlming and delivery, enabling graduates to receive and share their moment 
+while it is still fresh. The result is dramatically higher levels of social engagement and a stronger sense of shared 
+experience - 
+
+===== PAGE 5 =====
+
+Questions / Answers
+What makes your approach diﬀerent or innovative?
+The innovation in our approach lies not just in the use of AI, but in how the collaboration between MyGraduationClip 
+and First Sight Media enables that AI to operate at real-time speed - fundamentally changing what is possible in 
+graduation delivery. But what’s exciting is that the outcome of this speed has been:
+• higher engagement
+• increased sharing
+• and a step change in data captured
+All of which, has driven continued innovation as we reﬁne the workﬂow to deliver content even faster.
+Integrated workﬂow
+While many solutions focus on either production or post-event processing, our approach integrates both. First Sight 
+Media captures and transfers high-quality footage immediately after each ceremony, while MyGraduationClip’s AI 
+processes it within minutes, enabling unmatched speed.
+Speed drives behaviour
+Delivering clips while the moment is still fresh enables real-time sharing, unlocking signiﬁcantly higher engagement.
+Built on collaboration
+This is not achievable independently. Without First Sight Media’s workﬂow, the AI is constrained by delays; without 
+MyGraduationClip’s AI, production cannot scale into personalised content.
+Proven at scale
+This model is now enabling international expansion, including new partnerships in Australia.
+Together, this collaboration has redeﬁned graduation as a real-time, socially ampliﬁed, community-driven experience.
+VALIDATION
+
+===== PAGE 6 =====
+
+Questions / Answers
+How did you test, validate, or quality-check the AI outputs to ensure they were accurate, safe, or reliable?
+Reliability has been a core design principle of our AI system from the outset, as graduation is a once-only, emotionally 
+signiﬁcant event. Within this collaboration, quality assurance is achieved through a combination of:
+• automated validation, 
+• conﬁdence-based user veriﬁcation, 
+• continuous learning, 
+• and robust exception handling
+All of which is supported by a production workﬂow designed to deliver consistent, high-quality input.
+1. Automated Validation Checks
+Outputs are validated at multiple stages of the pipeline. These include clip-duration checks, audio-presence 
+veriﬁcation, duplicate-segment detection, and conﬁdence-threshold checks to ﬂag uncertain matches before delivery. 
+Where possible, person-presence checks are also applied to ensure clips are visually plausible and aligned with the 
+intended moment.
+2. Conﬁdence-Based User Validation
+Rather than assuming the AI is always correct, the system ranks potential matches by conﬁdence. Where certainty is 
+lower, graduates are presented with a small set of thumbnail options, ordered by likelihood. Users can conﬁrm their 
+identity or select “none of these are me.” This human-in-the-loop approach ensures accuracy while maintaining speed 
+and acts as a key real-world quality control layer.
+3. Continuous Learning from Real-World Use
+We analyse user selections and correction patterns from the validation process to reﬁne matching logic over time. This 
+creates an ongoing feedback loop, allowing the system to adapt to real-world variation in ceremony formats, audio 
+quality, and naming complexity.
+4. Exception Handling for Live Event Variability
+Even with a highly optimised production workﬂow, live events remain inherently unpredictable. Variations in venue 
+conditions (such as lighting, audio environments, or infrastructure) can still impact footage quality. The system is 
+designed to account for these factors, recovering usable clips wherever possible. Where issues cannot be resolved 
+automatically, cases are routed into a managed exception process to ensure no graduate is missed.
+5. Quality Through Workﬂow Integration
+A key strength of the collaboration is the consistency of input provided by First Sight Media’s production workﬂow. By 
+capturing high-quality, multi-camera footage and transferring it rapidly after each ceremony, the system beneﬁts from 
+reliable, well-structured input—reducing ambiguity and improving overall accuracy.
+6. Validation at Real-World Scale
+The platform operates in live graduation environments, processing large volumes of ceremonies concurrently, with up 
+to 700 clips generated in a single event. This ensures quality assurance is embedded in real-world usage, not just 
+controlled testing. We also conduct manual spot checks on selected ceremonies, particularly when reviewing new 
+scenarios or unusual conditions.
+Overall, our approach is simple: automate where conﬁdence is high, validate where ambiguity exists, and manage 
+exceptions where inputs are imperfect. Within this collaboration, the combination of high-quality production and AI-
+driven validation ensures the system remains accurate, reliable, and dependable at scale.
+
+===== PAGE 7 =====
+
+Questions / Answers
+IMPACT
+In one summary, explain the overall impact of your AI solution. Please cover four areas: innovation, execution, user or
+customer outcomes, and measurable results.
+Innovation
+The innovation within this collaboration lies in combining MyGraduationClip’s AI-driven platform with First Sight 
+Media’s production workﬂow to enable real-time, personalised content delivery at scale, fundamentally changing what 
+is possible in graduation experiences.
+At its core, MyGraduationClip provides the primary layer of innovation. The platform uses a combination of audio 
+analysis, computer vision, and temporal pattern recognition to automatically identify and segment each graduate’s 
+moment from full-length ceremony footage. What was historically a manual process taking days or weeks is now 
+completed within minutes, at scale, and with high accuracy.
+However, this innovation alone does not deliver real-time outcomes. The critical advancement comes from how this 
+technology is integrated with First Sight Media’s production workﬂow.
+Through close collaboration with First Sight Media’s production team, a reﬁned workﬂow has been developed that 
+enables footage to be captured, prepared, and transferred immediately after each graduate crosses the stage (which 
+can be anything from 5 – 20 minutes before the ceremony ﬁnishes). This removes the traditional delay between ﬁlming 
+and processing, allowing MyGraduationClip’s AI to begin processing almost instantly.
+This integration has enabled a step-change in performance. In many cases, graduates now receive their personalised 
+clips while they are still in the ceremony hall - something that was previously not possible within the industry. 
+Crucially, this speed is not simply an operational improvement; it drives entirely diﬀerent outcomes. Therefore, our 
+collaboration has also created a continuous innovation cycle. The measurable outcomes of increased engagement, 
+higher sharing rates, and improved data capture have directly informed further development across both organisations. 
+Together, we continue to reﬁne and optimise the workﬂow, pushing the boundaries of how quickly and eﬀectively 
+content can be delivered.
+Importantly, this innovation is not conﬁned to a single environment. The model has proven to be scalable across 
+multiple institutions and is now supporting international expansion, including new partnerships in Australia. This 
+demonstrates that the combined approach is not only innovative, but repeatable and adaptable across diﬀerent 
+markets by sharing workﬂows and processes.
+We are now approaching a position where clips can be delivered by the time graduates return to their seats, literally 
+seconds after crossing the stage. This continued push for speed is driven by a clear understanding of its impact: faster 
+delivery consistently leads to higher engagement, greater sharing, and stronger community outcomes.
+Ultimately, the innovation is not just in the technology, but in how it is applied. By tightly integrating AI processing with 
+production processes, this collaboration has created a new standard for real-time, data-driven, and inherently social 
+graduation delivery.
+
+===== PAGE 8 =====
+
+Questions / Answers
+Execution
+Delivering a seamless, real-time experience across mass participation events requires more than advanced technology, 
+it requires deep operational alignment. The collaboration between MyGraduationClip and First Sight Media is built 
+around this principle, enabling a level of execution that neither organisation could achieve independently.
+1. Delivery at Scale, together
+First Sight Media delivers over 3,000 graduations annually across more than 60 institutions, with MyGraduationClip 
+integrated across 30–40 of these events. This scale is not just a measure of reach, but a reﬂection of a partnership that 
+operates consistently across a high volume of live environments.
+2. A Jointly Designed Workﬂow
+At the heart of execution is a workﬂow developed collaboratively between both teams. First Sight Media captures high-
+quality, multi-camera footage and transfers it immediately after each ceremony segment, while MyGraduationClip’s AI 
+platform is structured to ingest and process that footage without delay. This removes traditional handoﬀ points and 
+creates a continuous, shared pipeline from capture to delivery.
+3. Real-Time Performance Enabled by Collaboration
+This close integration enables a level of performance not achievable through standalone solutions. In many cases, 
+personalised clips are delivered before the ceremony has concluded. This is only possible through precise coordination 
+between production timing, footage transfer, and AI processing - demonstrating the strength of the collaboration in 
+practice.
+4. Reliability Through Shared Responsibility
+Reliability is not owned by one system, but by the partnership. First Sight Media’s production standards ensure 
+consistent, high-quality input, while MyGraduationClip’s validation processes ensure accurate output. Together, this 
+creates a robust system that performs reliably across varying venues, formats, and conditions.
+5. Seamless Experience for Institutions
+Despite the complexity behind the scenes, the collaboration is delivered as a fully managed, uniﬁed solution. 
+Institutions beneﬁt from a single, seamless experience, without the need for additional resource or coordination 
+between suppliers.
+6. Continuous Co-Development
+Execution continues to evolve through ongoing collaboration. Both organisations work closely to reﬁne workﬂows, 
+improve speed, and respond to real-world insights. This shared approach ensures the solution is continuously 
+optimised, strengthening both performance and outcomes over time.
+Through this partnership, execution becomes a direct result of collaboration-where aligned expertise, shared methods, 
+and joint ownership enable consistent, live delivery at scale.
+
+===== PAGE 9 =====
+
+Questions / Answers
+Outcome
+The innovation within this collaboration lies in combining MyGraduationClip’s AI-driven platform with First Sight 
+Media’s production process to enable real-time, personalised content delivery at scale, fundamentally changing what is 
+possible in graduation experiences.
+Workﬂow as the enabler of speed
+At its core, MyGraduationClip provides the primary layer of innovation. This innovation alone does not deliver real-time 
+outcomes. Through close collaboration with First Sight Media, a reﬁned production setup has been developed that 
+enables footage to be captured and transferred immediately after each graduate crosses the stage. This removes the 
+traditional delay between ﬁlming and processing, allowing AI-driven clip generation to begin almost instantly.
+Speed that changes behaviour
+This speed is not simply an operational improvement, it drives entirely diﬀerent outcomes. Delivering clips at the peak 
+moment of emotion enables real-time sharing, signiﬁcantly increasing social engagement and participation, and 
+transforming graduation into a live, digitally ampliﬁed event.
+Innovation driven by outcomes
+The measurable success of this approach is:
+• higher engagement, 
+• increased sharing, 
+• and a step change in data captured
+These out comes have directly driven continued innovation. Both organisations continue to reﬁne and optimise the 
+workﬂow, pushing the boundaries of how quickly and eﬀectively content can be delivered.
+Pushing the boundary of real-time
+We are now approaching a position where clips can be delivered by the time graduates return to their seats - literally 
+seconds after crossing the stage. This continued push for speed is driven by a clear understanding of its impact: faster 
+delivery consistently leads to stronger engagement, greater sharing, and more meaningful community outcomes.
+Proven and scalable globally
+This model is not conﬁned to a single environment. It has been successfully deployed across multiple institutions and 
+is now supporting international expansion (including a new partnership in Australia) demonstrating that the 
+collaboration is both innovative and scalable.
+Together, this partnership has redeﬁned graduation as a real-time, socially ampliﬁed, and community-driven 
+experience.
+
+===== PAGE 10 =====
+
+Questions / Answers
+Results
+The collaboration between MyGraduationClip and First Sight Media has delivered measurable, high-impact results 
+across engagement, social sharing, community growth, and operational performance, demonstrating the power of an 
+integrated production and AI workﬂow.
+1. Real-Time Delivery Drives Engagement
+By combining First Sight Media’s rapid production workﬂow with MyGraduationClip’s AI processing, clips are delivered 
+within minutes (often before the ceremony has concluded). This immediacy drives up to a 400% increase in 
+engagement compared to clips delivered 24 hours later, as graduates share their moment at peak emotion.
+2. Mass Social Sharing at Scale
+Real-time delivery enables widespread, organic sharing across social platforms. Thousands of graduates 
+simultaneously sharing personalised clips creates signiﬁcant global reach, transforming graduation from a closed event 
+into a digitally ampliﬁed experience.
+3. Community Growth and Alumni Engagement
+The collaboration has signiﬁcantly improved alumni engagement. By integrating data capture into the clip delivery 
+journey, universities have increased sign-up rates from an average of 13% to 78%, demonstrating how real-time 
+engagement translates into long-term community building.
+4. Proven Performance at Scale
+The partnership operates across 30–40 ceremonies annually within First Sight Media’s wider delivery of over 3,000 
+graduations across 60+ institutions. In 2025 alone, MyGraduationClip supported approximately 250,000 graduates, 
+demonstrating reliable performance at high volume and across varied environments.
+5. Speed as a Competitive Advantage
+The collaboration has redeﬁned delivery expectations. Where traditional approaches take 24 hours to several weeks, 
+this integrated workﬂow delivers within minutes. In many cases, clips are available before graduates leave the 
+ceremony hall, setting a new benchmark for the sector.
+6. Cross-Department Value for Institutions
+The results extend beyond a single use case. Marketing teams beneﬁt from large-scale organic reach, alumni teams 
+achieve signiﬁcantly higher engagement and sign-up rates, and careers teams gain valuable insight through integrated 
+data capture, driving wider institutional adoption.
+7. Improved Value and Cost Eﬃciency
+The collaboration also delivers strong commercial value. Rather than relying on physical merchandise such as mugs or 
+memorabilia, institutions can provide personalised digital content at a lower cost and with greater impact. At a time of 
+ﬁnancial pressure across the higher education sector, this represents both improved engagement and better value for 
+money.
+8. Commercial Growth and Market Validation
+The success of this approach is reﬂected in the company’s rapid growth. Revenue is projected to increase from 
+£278,000 in 2025 to £750,000 in 2026, supported by expanding adoption across multiple markets. This includes the 
+recent signing of a partnership with one of the largest graduation providers in Australia, reinforcing the platform’s ability 
+to scale internationally and operate across diﬀerent production environments. 
+Importantly, this growth is underpinned by a highly eﬃcient model, with a net margin of 56%, demonstrating that 
+
+===== PAGE 11 =====
+
+Questions / Answers
+personalised content creation at scale is not only technically viable, but commercially sustainable.
+Together, these results demonstrate that the collaboration is not only innovative, but eﬀective. Delivering measurable 
+improvements across social engagement, community development, and operational performance at scale.
+CASE STUDY
+Describe how the AI was used in practice.
+MyGraduationClip and First Sight Media work together to integrate AI seamlessly into the live graduation experience, 
+transforming raw ceremony footage into personalised, shareable content within minutes.
+Before the ceremony
+Graduate data is securely collected and prepared within the system. This includes name information, which supports 
+accurate identiﬁcation during processing. The platform is conﬁgured to align with each institution’s ceremony structure, 
+ensuring a smooth and consistent experience on the day.
+During the ceremony
+First Sight Media captures high-quality video and audio feeds as graduates cross the stage. This production workﬂow 
+is designed to ensure footage is clean, consistent, and ready for rapid transfer immediately after each ceremony 
+segment.
+AI processing & clip creation
+Once ingested, the system separates audio and video streams. The audio is analysed and segmented into name 
+announcements, identifying when each graduate is presented. In parallel, the video is analysed to detect key visual 
+markers (such as when a graduate steps onto the stage, crosses it, and exits) across multiple camera angles.
+These elements are then intelligently recombined, aligning the correct audio announcement with the corresponding 
+video sequence to generate a personalised clip. This replaces what was traditionally a manual editing process, 
+enabling accurate clip creation at scale and in near real time.
+Validation & delivery
+To ensure accuracy, an AI-assisted validation layer is built into the user journey. Graduates are presented with one or 
+more thumbnail options based on system conﬁdence and conﬁrm their identity. Once validated, the personalised clip is 
+instantly delivered via a mobile-ﬁrst platform, optimised for social sharing.
+Because this process is enabled by First Sight Media’s rapid transfer of footage, clips are often delivered while 
+graduates are still in the ceremony hall, maximising engagement and sharing.
+Post-event engagement & insight
+Alongside delivery, the platform introduces a short, targeted survey, capturing valuable insight at the point of highest 
+engagement. This data is analysed within the platform to generate actionable insights, helping universities better 
+understand and grow their graduate communities.
+In practice, this collaboration creates a seamless end-to-end system where production and AI operate as a single 
+workﬂow, transforming complex live event data into meaningful, shareable moments in real time.
+
+===== PAGE 12 =====
+
+Questions / Answers
+What measurable results or improvements did it deliver?
+(Include any evidence that shows real-world impact.) 
+The collaboration between MyGraduationClip and First Sight Media has delivered clear, measurable improvements 
+across engagement, social sharing, community growth, and operational performance, demonstrating the impact of an 
+integrated production and AI workﬂow.
+1. Increased Engagement Through Real-Time Delivery
+By combining First Sight Media’s rapid production workﬂow with MyGraduationClip’s AI processing, clips are delivered 
+within minutes (often before the ceremony has concluded). This immediacy has been shown to drive up to a 400% 
+increase in engagement compared to clips delivered 24 hours later.
+2. Signiﬁcant Growth in Social Sharing
+Real-time delivery enables graduates to share their moment at peak emotional impact, resulting in widespread organic 
+distribution across social platforms. This has transformed graduation into a highly visible, digitally ampliﬁed event, with 
+thousands of graduates sharing content simultaneously.
+3. Measurable Improvement in Alumni Conversion
+The collaboration has delivered a substantial increase in alumni engagement. By integrating data capture into the clip 
+delivery journey, institutions have improved alumni sign-up rates from an average of 6% to 78%, demonstrating a 
+direct link between real-time engagement and long-term community growth.
+4. High-Volume Delivery
+The combined solution operates reliably across a signiﬁcant number of ceremonies. First Sight Media delivers over 
+3,000 graduations annually across 60+ institutions, with MyGraduationClip integrated across 30–40 ceremonies and 
+supporting approximately 150,000 graduates in 2025. This demonstrates consistent performance at scale across 
+diverse environments.
+5. Faster Delivery Compared to Industry Norms
+The collaboration has signiﬁcantly reduced delivery timelines. Where traditional approaches range from 24 hours to 
+several weeks, this integrated workﬂow consistently delivers within minutes, setting a new benchmark for the sector.
+6. Increased Value Across Departments
+The measurable impact extends across multiple university teams. Marketing beneﬁts from large-scale organic reach, 
+alumni teams achieve signiﬁcantly higher engagement and conversion, and careers teams gain valuable insight through 
+integrated data capture, driving broader institutional value.
+7. Improved Cost Eﬃciency
+The collaboration also delivers improved value for money. By replacing physical merchandise such as mugs with 
+personalised digital content, institutions reduce costs while delivering a more engaging and shareable experience, 
+particularly important in a ﬁnancially constrained higher education sector.
+Together, these results demonstrate that the collaboration delivers not only innovation, but measurable, scalable 
+improvements across engagement, community building, and operational performance.
+MODEL TRANSPARENCY (optional)
+
+===== PAGE 13 =====
+
+Questions / Answers
+What type of AI model or technique does your solution use? Please provide a simple, high-level explanation that
+helps judges understand the approach (no conﬁdential or proprietary details required).
+MyGraduationClip uses a hybrid AI approach, combining multiple techniques to analyse and transform live event 
+footage into personalised video content at scale.
+1. Speech Recognition and Audio Analysis
+The system uses automatic speech recognition (ASR) to analyse ceremony audio and identify likely name-
+announcement segments. Because live audio can be noisy and names are often pronounced in diﬀerent ways, we do 
+not rely on a ﬁxed name list. Instead, we use similarity-based matching techniques (such as trigram and TF-IDF 
+comparisons) to align registered graduate names with detected speech segments.
+2. Computer Vision and Motion Detection
+In parallel, computer vision techniques are used to analyse the video feed. The system detects patterns such as 
+individuals entering and leaving the frame, movement across the stage, and changes in camera angle. These signals 
+allow the platform to identify candidate “graduate moment” sequences without relying on predeﬁned zones or rigid 
+ﬁlming setups.
+3. Temporal Pattern Recognition
+Graduation ceremonies follow highly consistent structures. The system uses temporal clustering and pattern analysis 
+to group related video segments, even across multiple camera angles. This enables reconstruction of a coherent 
+sequence for each graduate, regardless of how the footage is captured.
+4. Conﬁdence Scoring and Matching
+The system applies conﬁdence scoring to align audio and video segments and determine the most likely match for 
+each graduate. Higher-conﬁdence matches are processed automatically, while lower-conﬁdence cases are ﬂagged for 
+validation.
+5. Human-in-the-Loop Validation
+Where ambiguity exists, users are presented with a small number of ranked thumbnail options to conﬁrm their identity. 
+This ensures accuracy without compromising scalability, combining automation with user validation.
+6. Supporting AI for Analytics and Moderation
+While the core clip-generation pipeline is based on multimodal analysis, additional AI techniques (including large 
+language models) are used within the platform to support survey moderation and analytics, helping institutions 
+interpret engagement data.
+Within the collaboration, First Sight Media’s production workﬂow plays a critical supporting role by ensuring high-
+quality, well-structured input data is delivered rapidly into the system. This enables the AI to operate eﬀectively in real-
+world conditions and at the speed required to deliver real-time results.
+Overall, the solution is best described as a hybrid, multimodal AI system combining speech recognition, computer 
+vision, similarity matching, temporal clustering, and conﬁdence-based validation - designed to transform complex live-
+event data into accurate, scalable, and instantly shareable content.
+SUPPORTING MATERIAL
+
+===== PAGE 14 =====
+
+Questions / Answers
+Video Link (optional)
+1. Additional upload if required, screenshots, dashboards, examples, test results
+892FS0LDZ9TB4FB_ETA_AI_Collaboration_-_Executive_Summary.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/7ab7ba55-778d-46d5-99ae-
+3607798d61f9/892FS0LDZ9TB4FB_ETA_AI_Collaboration_-_Executive_Summary.pdf)
+2. Additional upload if required, screenshots, dashboards, examples, test results
+892FS0LDZ9TB4FB_Fast_Delivery_University.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/ade4b58a-ﬀ5e-4506-b4e8-
+1a2ccﬀ9e11a/892FS0LDZ9TB4FB_Fast_Delivery_University.pdf)
+3. Additional upload if required, screenshots, dashboards, examples, test results
+892FS0LDZ9TB4FB_Delayed_Delivery_University.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/e89c7352-22cb-4206-b794-
+a43b52beﬀab/892FS0LDZ9TB4FB_Delayed_Delivery_University.pdf)
+4. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+5. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+
+===== PAGE 15 =====
+
+Scoring  Un-pin scoring panel
+Questions / Answers
+DECLARATION FIELD
+By completing this nomination you are agreeing to the terms and conditions and declare that this entry form is eligible
+for entry. You are conﬁrming all facts and ﬁgures contained within are accurate and true.
+I agree
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+Criteria Score
+Innovation *
+How original and forward-thinking is the approach?
+Whether you built an AI solution, adopted AI within your own events operation, or are
+bringing an early-stage concept to market, judges want to see genuine originality.
+Has AI been applied in a new or distinctive way?
+Does it solve a real problem creatively rather than following the obvious path?
+Look beyond oﬀ-the-shelf deployment and assess the quality of thinking behind the
+approach.
+/ 100
+Impact *
+What diﬀerence has this made, or what diﬀerence is it credibly expected to make?
+For live solutions, look for concrete evidence -- engagement rates, time saved, revenue
+generated, cost reduction, satisfaction scores.
+For pilot or beta-stage entries, early indicators such as user testing results, pilot
+outcomes, letters of intent, or projected impact grounded in credible data are all valid.
+Strong entries will be speciﬁc, not vague.
+/ 100
+S a ve
+
+===== PAGE 16 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Execution *
+How well has this been implemented or developed?
+For suppliers and vendors, consider the quality of the build, the robustness of delivery,
+and how challenges were handled.
+For organisers, consider how well AI was embedded into operations and how the team
+managed change.
+For early-stage entries, assess the quality of the product so far, the clarity of the
+roadmap, and the credibility of the team's approach.
+Thoughtful, professional execution at any stage counts highly.
+/ 100
+Results *
+What has been achieved, and what does the evidence show?
+For established solutions, consider client outcomes, retention, testimonials, and industry
+recognition alongside hard metrics.
+For organisers, attendee feedback, operational improvements, and stakeholder
+satisfaction all count.
+For startups or beta entries, judges should look for credible progress -- pilot
+conversions, early user feedback, investment secured, or strategic partnerships -- and
+should assess potential alongside proven outcomes.
+Do not penalise entries for being early stage; reward evidence of meaningful progress
+and a clear path to impact.
+/ 100
+Total -
+
+===== PAGE 17 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Feedback
+Dictation disable
+You speak: English
+Text will be: English
+ Start dictation  (20s)
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+S a ve

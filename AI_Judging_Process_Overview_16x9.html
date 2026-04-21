@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Judging Process Overview</title>
+<style>
+  :root {
+    --bg: #0b1020;
+    --panel: #121933;
+    --text: #f4f7fb;
+    --muted: #b8c4d9;
+    --accent: #7dd3fc;
+    --accent2: #a78bfa;
+    --line: rgba(255,255,255,0.12);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: linear-gradient(135deg, #09101d 0%, #101936 55%, #0b1020 100%);
+    color: var(--text);
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  }
+  .slide {
+    width: 1600px;
+    height: 900px;
+    margin: 0 auto;
+    padding: 48px 56px;
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+    gap: 28px;
+  }
+  h1 {
+    margin: 0;
+    font-size: 48px;
+    line-height: 1.05;
+    letter-spacing: -0.03em;
+    max-width: 1320px;
+  }
+  .sub {
+    font-size: 22px;
+    color: var(--muted);
+    max-width: 1180px;
+    line-height: 1.35;
+  }
+  .accent { color: var(--accent); }
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 24px;
+  }
+  .card h2 {
+    margin: 0 0 14px 0;
+    font-size: 26px;
+  }
+  .card ul {
+    margin: 0;
+    padding-left: 20px;
+  }
+  .card li {
+    font-size: 19px;
+    line-height: 1.35;
+    margin: 10px 0;
+  }
+  .flow {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 14px;
+  }
+  .step {
+    background: rgba(255,255,255,0.04);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 18px;
+  }
+  .step .n {
+    color: var(--accent);
+    font-size: 14px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .step h3 {
+    margin: 8px 0 8px 0;
+    font-size: 22px;
+  }
+  .step p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 16px;
+    line-height: 1.35;
+  }
+  .footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .footer .box {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 18px 22px;
+    font-size: 20px;
+    line-height: 1.35;
+  }
+  .footer strong { color: var(--accent); }
+</style>
+</head>
+<body>
+  <div class="slide">
+    <h1>How I built an <span class="accent">AI-assisted judging workflow</span> for the Event Technology Awards, AI Edition 2026</h1>
+
+    <div class="sub">
+      Before scoring entries, I built the structure needed to judge <b>consistently</b>, <b>fairly</b>, and <b>at scale</b> across four criteria: Innovation, Impact, Execution, and Results.
+    </div>
+
+    <div class="cards">
+      <div class="card">
+        <h2>What we built</h2>
+        <ul>
+          <li>One project folder</li>
+          <li>Intake + PDF extraction workflow</li>
+          <li>Master score sheet</li>
+          <li>Ranked results + feedback files</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>How we judged</h2>
+        <ul>
+          <li>Scored against the rubric first</li>
+          <li>Compared within each category</li>
+          <li>Calibrated for early-stage entries</li>
+          <li>Flagged weak or missing evidence</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h2>What is still manual</h2>
+        <ul>
+          <li>Final human review</li>
+          <li>Conflict check</li>
+          <li>Entering scores into evessio</li>
+          <li>Final submission in the judging portal</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="flow">
+      <div class="step">
+        <div class="n">Step 1</div>
+        <h3>Collect</h3>
+        <p>Pull all entry files into one judging workspace.</p>
+      </div>
+      <div class="step">
+        <div class="n">Step 2</div>
+        <h3>Extract</h3>
+        <p>Convert PDFs into readable text for consistent review.</p>
+      </div>
+      <div class="step">
+        <div class="n">Step 3</div>
+        <h3>Calibrate</h3>
+        <p>Define how to score evidence, originality, and close calls.</p>
+      </div>
+      <div class="step">
+        <div class="n">Step 4</div>
+        <h3>Score</h3>
+        <p>Generate scores, rankings, and feedback for each entry.</p>
+      </div>
+      <div class="step">
+        <div class="n">Step 5</div>
+        <h3>Deliver</h3>
+        <p>Use the final results sheet to enter scores in the platform.</p>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="box"><strong>Automatic:</strong> intake, extraction, organization, draft scoring, ranking, and feedback generation.</div>
+      <div class="box"><strong>Manual:</strong> final oversight and entering each score into the evessio judging interface.</div>
+    </div>
+  </div>
+</body>
+</html>

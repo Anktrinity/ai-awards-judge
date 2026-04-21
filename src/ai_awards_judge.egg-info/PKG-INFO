@@ -1,0 +1,144 @@
+Metadata-Version: 2.4
+Name: ai-awards-judge
+Version: 0.1.0
+Summary: Configurable AI-assisted judging workflow for awards, innovation challenges, and shortlist reviews.
+Author: Tree-Fan Events
+License: MIT
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyyaml>=6.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Dynamic: license-file
+
+# AI Awards Judge
+
+A GitHub-ready starter kit for turning awards judging into a reusable, auditable, deployable workflow.
+
+This repo packages the current judging logic into a configurable system that can be reused for event tech awards, AI awards, startup competitions, innovation showcases, and shortlist reviews.
+
+## What it includes
+
+- Config-driven rubric and category settings
+- Reusable judging methodology docs
+- Existing sample artifacts from the current project
+- A starter Python CLI for local batch runs
+- Templates for reports and master summaries
+- Docker-ready structure and environment config
+
+## Repo layout
+
+```text
+ai_awards_judging/
+  config/                  # Rubric, category, prompt, and output settings
+  docs/                    # Methodology, deployment notes, and rubric docs
+  examples/                # Sample input and output artifacts
+  scripts/                 # Helper scripts and migration helpers
+  src/ai_awards_judge/     # Starter package and CLI
+  templates/               # Report templates
+  tests/                   # Starter tests
+```
+
+## Current status
+
+This is **v1 scaffolded and ready for GitHub push**.
+
+What is production-ready now:
+- repository structure
+- docs and config separation
+- starter CLI interface
+- sample assets copied from the existing judging work
+
+What still needs implementation for a full product release:
+- model-backed scoring execution
+- multi-judge reconciliation
+- web UI or hosted API layer
+- CI publishing workflow
+
+## Quick start
+
+### 1. Create a repo and push
+
+```bash
+cd ai_awards_judging
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -e .
+git init
+git add .
+git commit -m "Initial scaffold for AI Awards Judge"
+```
+
+Then connect GitHub:
+
+```bash
+git remote add origin <YOUR_GITHUB_REPO_URL>
+git push -u origin main
+```
+
+### 2. Run the starter CLI
+
+Preview current config:
+
+```bash
+ai-awards-judge inspect-config
+```
+
+Create a starter run manifest:
+
+```bash
+ai-awards-judge plan-run --input-dir ./examples/sample_input --output-dir ./outputs
+```
+
+## Design principles
+
+- **Auditable**: scoring policy, prompts, and outputs are separate
+- **Reusable**: categories and rubric are configurable, not hardcoded
+- **Defensible**: evidence quality and tie-breaks are explicit
+- **Portable**: local-first, easy to containerize, easy to extend
+
+## Suggested roadmap
+
+### v1
+- local CLI runner
+- rubric config
+- markdown and CSV outputs
+- Docker support
+
+### v2
+- API service
+- upload endpoint
+- multi-judge review mode
+- result reconciliation
+
+### v3
+- hosted app
+- role-based access
+- organizer dashboard
+- reviewer calibration analytics
+
+## Existing project artifacts included
+
+These source materials from the current judging work are preserved in this repo and can serve as examples:
+
+- `JUDGE_SCORING_GUIDE.md`
+- `JUDGE_SCORING_SHEET.csv`
+- `JUDGE_RESULTS_WITH_FEEDBACK.md`
+- `award_judging_report.md`
+- `award_review/`
+- `skill/event-awards-judge/`
+
+## Recommended GitHub repo description
+
+> Configurable AI-assisted judging system for award entries, shortlist reviews, and category ranking workflows.
+
+## Recommended next step after push
+
+After the repo is live, the next best move is to implement the scoring engine so judges can run:
+
+```bash
+ai-awards-judge run ./entries --config ./config/rubric.yaml --out ./outputs
+```
+
+If you want, I can build that next.

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.venv*/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+outputs/
+!.gitkeep
+*.log
+award_review/.venv/
+award_review/.extract_state.json

@@ -1,0 +1,553 @@
+
+
+===== PAGE 1 =====
+
+ Seifert, eBrain Technology Group GmbH, Linnea  89GALEKCJZJ7BIA
+Event Technology Awards: AI Edition
+Questions / Answers
+ENTRANT DETAILS
+First Name
+Linnea
+Last Name
+Seifert
+Email
+linnea.seifert@ebrain.events
+Contact Number
++491777778617
+COMPANY INFORMATION
+Company / Organisation Name
+eBrain Technology Group GmbH
+Product Name (optional)
+eBrain
+  Most Innovative AI Application in Events
+Celebrating groundbreaking AI ideas or applications that push the industry forward and deliver clear, creative impact.
+
+===== PAGE 2 =====
+
+Questions / Answers
+Company proﬁle
+eBrain Technology Group builds a unique AI-centric operating model for event operations and live communication, with 
+a core focus on attendee management. 
+The company unites what rarely comes together in this industry: over two decades of international event excellence, 
+deep AI and strategy expertise, and a dedicated full-stack and AI engineering team.
+The foundation was an attendee management system successfully deployed since 2004, operationally validated across 
+industries and event formats. Rather than cosmetically updating this system, the team chose a radical rebuild: the 
+entire operational value chain — from website creation through registration, communication and live operations to 
+analytics - was reconceived as an AI-centric, synchronized workﬂow architecture.
+eBrain operates on EU-sovereign cloud infrastructure (IONOS), is GDPR-compliant by design and addresses the 
+requirements of the EU AI Act. 
+The team comprises event industry veterans with decades of international live communication delivery, AI strategists, 
+academically grounded specialists, and experienced developers.
+Headquartered in Berlin, eBrain serves event agencies and enterprises that want to move beyond digitizing attendee 
+management toward intelligently orchestrating it - with the goal of radically reducing operational burden and returning 
+focus to creativity, guest quality, and strategic impact.
+YOUR PRODUCT
+
+===== PAGE 3 =====
+
+Questions / Answers
+Description of your technology
+eBrain is not an event tool with AI features. eBrain is an AI-centric operating model that redeﬁnes the entire operational 
+logic of attendee management.
+The event industry has digitized its processes - but it has not made them intelligent. Behind every successful event lies 
+an invisible layer of fragmented systems, spreadsheet workarounds, manual change cascades, and time-consuming 
+coordination. Event teams spend the majority of their working hours not on creative work and guest experience, but on 
+administration. eBrain was built to solve this structural problem.
+*Five-layer architecture:*
+eBrain organizes event operations across ﬁve interconnected layers:
+The Experience Layer encompasses event websites, registration, ticketing, forms, and check-in - everything 
+participants and teams interact with directly. The Operations Layer manages attendees, contingents, hotel and transfer 
+logic, communication, surveys, tasks, and change management. The Intelligence Layer embeds AI into every 
+operational step: website automation, AI-assisted communication, reporting, NLP insights, forecasting, 
+recommendations and Emily as the dialogic access and action layer - powered by an agentic architecture where the 
+LLM reasons, selects tools, and chains actions autonomously. The Synchronization Layer serves as the single source 
+of truth, keeping changes, statuses, and data consistent across all touchpoints - eliminating manual reconciliation 
+cascades. The Trust & Compliance Layer ensures EU-sovereign hosting, GDPR compliance, and EU AI Act readiness.
+*Four core engines across the full event lifecycle:*
+The Setup Machine enables event creation, AI-powered website building via wizard and prompting, registration 
+conﬁguration, and campaign launch. The Run Machine delivers a live dashboard with task management, real-time 
+contingent management for hotels, sessions, shuttles, and catering, automated communication, and synchronized 
+change management. The Onsite Machine handles badges, QR-based check-in, and live attendance status. The Learn 
+Machine generates day-to-day reporting, KPI analytics, forecasting, NLP feedback insights, and historical benchmarks.
+*Emily - the new interaction logic:*
+Emily is not a chatbot feature. Emily is a dialogic access, guidance, and action layer. Event managers ask natural-
+language questions ("How many vegetarians are registered?", "Which hotels are overbooked?"), receive immediate 
+operational answers with action recommendations, and can trigger actions directly - such as sending a personalized 
+VIP reminder in German and English. Emily makes even less experienced team members immediately eﬀective and 
+dramatically reduces onboarding time.
+The result is not a better tool. It is a new operating model: fewer tool switches, less manual coordination, fewer errors -  
+and fundamentally more time for what event teams are actually here for: staging, guest quality, and strategic impact.
+TECHNOLOGY DESCRIPTION
+
+===== PAGE 4 =====
+
+Questions / Answers
+Explain how the AI works in your solution?
+AI operates in eBrain across three clearly diﬀerentiated levels - not as a single feature, but as a continuous intelligence 
+layer spanning the entire event operations value chain.
+LLM level: High-performance language models generate event website content, optimize copy, translate across 
+languages, process natural-language queries, and deliver contextual assistance. A corporate design crawler 
+automatically extracts brand identity from existing web presences.
+Assistant level: Specialized AI assistants guide users through every phase of attendee management — website 
+building, communication creation, reporting, and operational questions. They deliver not just information, but 
+contextual guidance and action recommendations adapted to the current event status and user role.
+Agent level: Task-oriented AI agents support or trigger concrete operational steps — the CTA agent suggests daily 
+prioritized to-dos, while other agents handle email creation, data reconciliation, and cross-touchpoint status updates.
+Emily uniﬁes all three levels as the dialogic interface: users interact with the entire system through natural language, 
+receiving answers, recommendations, and triggering actions — without context switches. The entire AI infrastructure 
+runs on EU-sovereign cloud (IONOS), is GDPR-compliant by design, and addresses EU AI Act documentation and risk 
+assessment requirements.
+What speciﬁc problem does this AI solve?
+The event industry does not have a creativity problem. It has an operational burden problem.
+Existing attendee management tools have digitized legacy processes - but they have not made them intelligent. They 
+replicate the same unintelligent workﬂows on a digital surface: fragmented data, manual change cascades, 
+disconnected communication, spreadsheet reconciliation. The result is legacy thinking running on modern 
+infrastructure — consuming capacity without generating value.
+A single participant change - a cancellation, a room switch, a dietary update - triggers manual follow-up across ﬁve or 
+more touchpoints: update the list, notify the hotel, adjust the shuttle plan, correct the badge, revise the catering count, 
+adapt the communication. These cascades cost time, produce errors, and trap highly qualiﬁed teams in administrative 
+labor instead of creative and strategic work.
+Registration websites take days instead of minutes. Contingents and hotels are nearly impossible to steer in real time. 
+Reporting happens after the event instead of during operations. Onboarding new team members takes too long 
+because system logic is complex and never self-explanatory.
+eBrain solves this structural problem by rebuilding the entire operational logic as AI-centric — synchronized, dialogic, 
+action-oriented. The system relieves, guides, and orchestrates.
+
+===== PAGE 5 =====
+
+Questions / Answers
+What makes your approach diﬀerent or innovative?
+The fundamental diﬀerence: eBrain did not bolt AI onto an existing system. eBrain rebuilt the operating model itself as 
+AI-centric from the ground up.
+First: Systemic AI, not point solutions. While others add isolated AI features - a chatbot here, text generation there - 
+eBrain embeds AI across the entire process cycle: from event creation through registration, communication, live 
+operations, and onsite to post-event learning. Every operational step becomes more intelligent, not just one.
+Second: Dialogic orchestration replaces static software interaction. Emily transforms how people interact with event 
+operations. Instead of navigating menus and forms, teams interact through natural language - receiving not just 
+answers, but guidance, prioritization, and action triggers.
+Third: Synchronized truth replaces fragmented data. The Synchronization Layer eliminates the core problem of manual 
+change cascades across hotels, shuttles, catering, badges, and communications. One change takes eﬀect system-
+wide - instantly, consistently, without manual follow-up.
+Fourth: Proven process foundation, not startup speculation. eBrain builds on 20+ years of real event process logic - 
+validated in international projects. This is an AI-centric rebuild of a battle-tested operational engine.
+The innovation is not a feature. It is the paradigm shift: from event administration to event intelligence.
+VALIDATION
+
+===== PAGE 6 =====
+
+Questions / Answers
+How did you test, validate, or quality-check the AI outputs to ensure they were accurate, safe, or reliable?
+eBrain's validation strategy follows one principle: practical intelligence before lab perfection. Every AI application is 
+measured against real operational impact, not technological ambition.
+1. Foundation from 20+ years of operational validation
+The underlying attendee management logic is not theoretical - it has been tested in real event projects across 
+industries and complexity levels for over two decades. This operational experience deﬁnes where AI creates genuine 
+leverage and where human control remains essential. eBrain was not built from technology enthusiasm, but from deep 
+understanding of real event bottlenecks.
+2. Surgical AI integration by use case
+Rather than deploying AI generically, the most critical operational bottlenecks were analyzed individually: website 
+building, list reconciliation, change management, communication, task orchestration, reporting, onsite processes. For 
+each use case, the team deﬁned which AI intervention serves a clear business purpose and which quality parameters 
+apply.
+3. Three-level quality assurance
+At the LLM level, generated content - website copy, communications, translations - is constrained by contextual 
+parameters and brand logic. At the assistant level, recommendations and guidance are bound to actual event data - 
+assistants work on real participant, contingent, and status data. At the agent level, triggered actions are presented as 
+suggestions - ﬁnal decisions and approval remain with the human operator. This reﬂects eBrain’s commitment to 
+responsible AI: technology that augments human judgment, maintains full operator control, and operates within clear 
+ethical and regulatory boundaries.
+4. Technical safety and security layer
+The report generation engine includes a dedicated SQL veriﬁcation system: every AI-generated query is validated 
+against table and column whitelists, blocked from executing DELETE, DROP, INSERT, or UPDATE operations, 
+prevented from exposing internal record identiﬁers, and automatically scoped to the relevant event data - ensuring 
+strict data isolation between clients. This veriﬁcation layer is covered by 16 automated test cases. Tool execution 
+follows a whitelisting protocol: read-only operations auto-execute, while state-changing actions require explicit human 
+conﬁrmation.
+5. Synchronization Layer as consistency guarantee
+The Synchronization Layer simultaneously functions as a validation layer: changes are not processed in isolation but 
+reconciled system-wide. Inconsistencies between touchpoints are detected and resolved before they produce 
+operational errors.
+6. EU-sovereign infrastructure as trust foundation
+The entire platform runs on IONOS EU cloud with GDPR-compliant data processing. The architecture addresses EU AI 
+Act requirements regarding risk assessment and documentation capability. Data sovereignty, traceability, and 
+governance are architecturally embedded - not as a retrospective compliance exercise, but as an integral part of 
+system design.
+7. Internal benchmarks and iterative optimization
+KPI measurements for administration reduction, process costs, and participant satisfaction are collected on a project-
+speciﬁc basis and feed into continuous improvement of AI models, assistants, and agents. The Learn Machine closes 
+the feedback loop: insights from every event improve quality for the next.
+
+===== PAGE 7 =====
+
+Questions / Answers
+IMPACT
+In one summary, explain the overall impact of your AI solution. Please cover four areas: innovation, execution, user or
+customer outcomes, and measurable results.
+Innovation
+eBrain's innovation does not lie in a single AI feature. It lies in a paradigm shift: from software-centric event 
+administration to AI-centric event intelligence.
+The event industry has digitized extensively - but it has not changed its fundamental operational logic. Event teams still 
+work reactively, in fragments, driven by administration. Systems manage data, but they do not think ahead. They do 
+not synchronize. They do not guide. They do not recommend. They do not learn.
+eBrain breaks with this logic fundamentally.
+Paradigm shift in the operating model: While conventional event platforms force people to adapt to software, eBrain 
+reverses the logic: the system adapts to the people, actively supports them, and intelligently orchestrates processes. 
+This is not a UX update. It is a new category: AI-centric event operations.
+AI as a continuous intelligence layer: eBrain does not deploy AI at isolated touchpoints but across the entire attendee 
+management value chain - from event initialization through website generation, registration, communication, live 
+operations, and onsite management to post-event learning. This end-to-end AI penetration is currently unique in the 
+market.
+Emily as a new interaction paradigm: Emily is not a chatbot add-on. Emily represents a fundamental shift in human-
+system interaction for event operations. Teams interact dialogically with the entire operating system: they ask, they 
+receive contextual answers, they get action recommendations, they trigger executions — without context switches, 
+without media breaks. Even less experienced team members become immediately eﬀective through Emily. This 
+reduces onboarding time, prevents errors, and dramatically increases the scalability of event teams.
+Synchronized truth instead of data chaos: The Synchronization Layer solves a problem the entire industry has 
+accepted for years: that a single participant change triggers manual follow-up across hotels, shuttles, catering, 
+badges, session allocations, and communications. In eBrain, every change takes eﬀect system-wide, instantly, and 
+consistently.
+Learning as a system property: Through the Learn Machine, events are no longer treated as isolated projects but as 
+data points within an operational learning cycle. NLP insights from free-text feedback, historical benchmarks, and 
+forecasting make each subsequent event better. The industry moves from retrospective reporting to predictive steering.
+Why this is genuine innovation - not just a feature upgrade: Most AI applications in the event industry add a single 
+function to an existing system - a text generator, a chatbot, an analytics dashboard. eBrain, by contrast, rebuilt the 
+entire operational logic as AI-centric from the ground up. The innovation is not in a module. It is in the architecture, the 
+synchronization principle, the dialogic interaction, and the end-to-end orchestration across the full event lifecycle. That 
+is the diﬀerence between "software with AI" and "an AI-centric operating model."
+
+===== PAGE 8 =====
+
+Questions / Answers
+Execution
+eBrain is not a concept paper. It is a working system, built by a team that unites event reality, AI depth, and engineering 
+excellence.
+Origin determines execution quality: eBrain could only emerge because three competencies converged that rarely exist 
+within one team: decades of international event delivery experience, deep AI and strategy expertise, and a dedicated 
+full-stack and AI engineering team that translates the target architecture into production-grade software.
+Four phases of a disciplined rebuild:
+In Phase 1 - Exposing the process architecture - the real value chain of event-based attendee management was 
+mapped: initialization, invitation, communication, registration, management, contingents, onsite, reporting, and KPI 
+analytics. Not as a feature inventory, but as a map of operational friction and AI leverage points.
+In Phase 2 - Surgical use case identiﬁcation — the most critical bottlenecks were examined individually: website 
+building, list reconciliation, change management, communication, task orchestration, reporting, onsite processes. 
+Every AI intervention serves a clear business and operational purpose.
+In Phase 3 - Deﬁning the AI-centric target model — the Setup/Run/Learn model emerged: planning, live operations, 
+and insights are no longer treated as separate software domains but as a connected, intelligent operations system.
+In Phase 4 - Rebuilding the core engines — the four functional machines were reconstructed: Setup Machine, Run 
+Machine, Onsite Machine, and Learn Machine -connected through the Intelligence Layer with Emily, assistants, and 
+agents.
+What is productively deployed today:
+The platform covers the full-circle process: event creation and AI-powered website building via wizard and prompting 
+with corporate design crawler. Registration with shopping cart, add-ons, group logic, and ﬂexible ticketing. A 
+Communication Center with AI-assisted, hyperpersonalized communication in multiple languages. Attendee and 
+contingent management with real-time control of hotels, sessions, shuttles, and catering - automatically synchronized 
+when changes occur. A cockpit dashboard with essential tasks and AI recommendations. Badge creation with QR 
+codes and an onsite check-in system with live status updates. Day-to-day reporting, smart analytics with forecasting, 
+NLP feedback insights, and historical comparisons. And Emily as the AI buddy for queries, action recommendations, 
+and execution triggers directly within the workﬂow.
+EU-sovereign infrastructure: The entire platform operates on IONOS EU cloud, is GDPR-compliant by design, and 
+addresses EU AI Act requirements. Data sovereignty is not a feature - it is an architectural principle.
+The result of this execution: An enterprise-grade system that did not emerge from speculative startup logic, but from 
+the disciplined re-architecture of an operationally proven attendee management foundation - built by people who know 
+how events actually work under pressure - delivering operational excellence at portfolio scale.
+
+===== PAGE 9 =====
+
+Questions / Answers
+Outcome
+eBrain changes what event teams do with their time, their energy, and their resources.
+The central outcome is not a more eﬃcient process. It is a shift in where work happens: away from operational heavy 
+lifting, toward creation, guest quality, and strategic impact.
+For event agencies:
+Agencies reclaim margin with eBrain. Administrative eﬀort per project drops substantially. Event websites that 
+previously required 6–8 hours of manual work are created through AI-powered website building in minutes. 
+Communication is no longer laboriously coordinated across scattered channels - it is AI-assisted, personalized, and 
+sent directly from the system. Change management - previously a source of constant manual follow-up across hotels, 
+shuttles, catering, and badges - runs synchronized and system-wide.
+The economic result: agencies can deliver more events with the same team size at higher quality. Scaling without 
+proportional headcount growth becomes possible. Senior capacity is freed from operational routine and available for 
+consulting, concept development, and client leadership. Junior roles become productive from day one through Emily 
+and guided workﬂows - reducing onboarding costs and increasing organizational resilience.
+For enterprises with their own event needs:
+Enterprises gain governance, transparency, and control at a new level. The single source of truth eliminates data 
+discrepancies between teams, service providers, and stakeholders. Real-time reporting replaces retrospective analysis. 
+Decisions become more data-driven and faster.
+The operational result: fewer internal coordination loops, lower process costs, less escalation risk. The strategic result: 
+stronger brand experience through personalized communication, seamless onsite processes, and more professional 
+attendee experiences.
+For event managers in daily operations:
+One system instead of tool chaos. More certainty instead of constant doubt about data accuracy. Less stress before 
+the event because changes no longer need to be manually cascaded across ﬁve or six touchpoints. Emily as an 
+always-available AI buddy that answers operational questions instantly, suggests prioritized to-dos, and supports 
+routine tasks.
+The overarching outcome:
+eBrain returns to the event industry what administrative burden has consumed for years: time for what deﬁnes great 
+events: dramaturgy, creative excellence, and strategic client leadership. The platform proves that the solution to the 
+operational burden problem does not lie in more headcount, but in a fundamentally more intelligent operating logic.
+
+===== PAGE 10 =====
+
+Questions / Answers
+Results
+The measurable results conﬁrm: eBrain delivers structural operational leverage, not incremental improvement. Headline 
+result: across a portfolio of 115+ annual events in attendee management, eBrain’s operational leverage translates to an 
+estimated saving of over 12,000 staﬀ hours and €650,000+ in process costs per year. Validated across 100+ scenarios 
+using real parameters from 20+ years of predecessor operations.
+Core metrics - before and after:
+Website and setup: Event registration websites that previously required 6–8 hours of manual CMS work are now 
+generated in minutes through AI-powered website building with automatic corporate design extraction. 
+Administration: On the predecessor system, a typical event consumed approximately 160 staﬀ hours in administration 
+- registration management, change cascades, communication coordination, and logistics. AI-assisted workﬂows 
+across the full event journey demonstrate a reduction of up to 70%, freeing over 100 hours per event for creative and 
+strategic work.
+Process costs: At industry-standard rates of €35–40 per hour, 160 hours of administration translate to €5,600–6,400 in 
+process costs per event. eBrain's synchronized workﬂows and AI automation demonstrate up to 50% savings in 
+attendee management process costs - compounding across every event delivered.
+Change management: A single participant change previously triggered manual follow-up across 5–6 touchpoints: 
+participant lists, hotel contingents, shuttle plans, catering counts, badges, and communications. The Synchronization 
+Layer eliminates these cascades entirely. Every change takes eﬀect system-wide, instantly, and consistently.
+Onboarding: New team members previously required 6–7 days to become operational on the predecessor system. 
+Through Emily and guided workﬂows, junior staﬀ become productive from day one — a reduction in onboarding time of 
+over 80%.
+Attendee satisfaction: Events on the predecessor system achieved satisfaction scores ranging from 5–8 out of 10 - a 
+wide variance driven by manual, fragmented workﬂows. eBrain delivers higher and more consistent satisfaction 
+through intuitive registration UX, personalized communication by participant type, and sub-30-second QR check-in - 
+replacing the friction points that drove predecessor scores as low as 5 out of 10.
+Output leverage: Event teams deliver more events at higher quality with the same or fewer resources. Delivery capacity 
+grows without proportional headcount increases.
+Qualitative results with strategic relevance:
+Faster time-to-live: events go online faster — a direct competitive advantage in time-critical situations.
+Higher decision velocity: day-to-day reporting, real-time analytics, and Emily queries deliver operational transparency 
+during live operations - not after the event is over.
+Better data quality and consistency: the Synchronization Layer eliminates error-prone manual data maintenance across 
+multiple touchpoints. Participant, status, and communication data are reliable and current at all times.
+Stronger governance: EU-sovereign infrastructure, GDPR compliance, and AI Act readiness create a trust foundation 
+
+===== PAGE 11 =====
+
+Questions / Answers
+that is particularly decisive in corporate, enterprise, and public sector environments.
+What these numbers mean - beyond the metrics: The real impact is not in percentages. It is in the fact that event 
+teams can once again do what they entered this industry to do: create experiences, delight guests, lead clients 
+strategically - instead of reconciling spreadsheets, chasing manual updates, and operating systems that work against 
+them rather than for them.
+CASE STUDY
+
+===== PAGE 12 =====
+
+Questions / Answers
+Describe how the AI was used in practice.
+The following scenario illustrates eBrain's operational impact, modelled on real event parameters from 115+ annual 
+events managed on the predecessor platform.
+Practice scenario: International corporate conference with 800+ attendees, multiple participant types, and complex 
+logistics.
+An event team -  consisting of one experienced project lead and two junior staﬀ members - sets up a multi-day 
+international conference using eBrain. The event involves VIPs, speakers, sponsors, regular attendees, and staﬀ, each 
+with diﬀerent permissions, hotel contingents, session assignments, shuttle needs, catering preferences, and 
+communication requirements.
+Phase 1 - Setup (minutes instead of days):
+The project lead creates the event with a name and a prompt. The AI website builder generates a complete event 
+website in the client's corporate design - the CD crawler automatically extracts colors and logo structure from the 
+existing web presence. Subpages, registration forms, and content are created via prompting. What previously required 
+6–8 hours of manual CMS work is live within minutes. Registration is conﬁgured: customizable forms, shopping cart 
+with hotel selection, session booking, transfer options, and social program. Ticketing with VIP and early-bird logic is 
+activated.
+Phase 2 -  Communication and invitation:
+Through the Communication Center, AI generates invitation texts - personalized by participant type, in German and 
+English. The project lead reviews, adjusts, and sends directly from the system. Reminders and follow-ups are 
+conﬁgured as automated campaigns. The junior team member asks Emily: "Write a VIP reminder in English referencing 
+the evening program." Emily generates the text; the team member reviews and approves.
+Phase 3 - Live operations and change management:
+During the registration phase, participants cancel, rebook, change room types, update dietary requirements. In 
+conventional systems, each change triggers manual cascades across 5–6 touchpoints. In eBrain, every change takes 
+eﬀect synchronously: the contingent manager updates room availability automatically, shuttle planning adjusts, 
+catering counts recalculate, session capacities rebalance, communication adapts, participant status is instantly correct 
+everywhere. Emily answers spontaneous questions: "How many vegetarians are registered?" - instant answer from 
+real-time data.
+Phase 4 - Onsite:
+Branded badges with QR codes are generated directly from registration data. On event day, attendees scan their QR 
+code at check-in. Attendance status updates live in the system without manual lists.
+Phase 5 - Learn:
+Post-event, the Learn Machine delivers automated reports: attendee KPIs, no-show analysis, NLP-processed free-text 
+feedback with pattern and sentiment recognition. Historical comparisons with previous events reveal improvement 
+opportunities feeding directly into planning the next event.
+The decisive point: Two junior team members were fully operational from day one through Emily and guided workﬂows 
+- without the 6–7 days of onboarding the predecessor system required.
+
+===== PAGE 13 =====
+
+Questions / Answers
+What measurable results or improvements did it deliver?
+(Include any evidence that shows real-world impact.) 
+The measurable improvements manifest across the entire event value chain - validated against real operational 
+parameters from 115+ annual events managed over 20+ years on the predecessor system.
+Website building and setup: AI-powered event website creation reduces build eﬀort from 6–8 hours to minutes - a 
+reduction of over 90%. Via wizard and prompting, a complete, brand-compliant event web presence is generated 
+including subpages, registration forms, and content. The corporate design crawler adopts visual identity automatically.
+Communication: AI-assisted, hyperpersonalized communication by participant type (VIP, speaker, sponsor, staﬀ) 
+replaces manual text creation and scattered email threads. Texts are generated, optimized, and translated into multiple 
+languages - directly in the system, in brand voice, traceable and measurable.
+Change management: Every participant change takes eﬀect system-wide and instantly via the Synchronization Layer. 
+Previously, a single change triggered manual follow-up across 5–6 touchpoints. eBrain eliminates these manual 
+cascades entirely.
+Administration and process costs: Events on the predecessor system consumed approximately 160 staﬀ hours in 
+administration at rates of €35–40 per hour - translating to €5,600–6,400 in process costs per event. eBrain's AI-
+assisted workﬂows demonstrate up to 70% less administration and up to 50% savings in process costs, compounding 
+across every event delivered.
+Onboarding and team productivity: The predecessor system required 6–7 days to onboard new team members. Emily 
+and guided workﬂows make even less experienced staﬀ immediately eﬀective — reducing onboarding time by over 
+80%.
+Aggregated impact metrics (based on operational baselines from the predecessor system):
+• Up to 70% less administration across the entire event journey
+• Up to 50% savings in attendee management process costs
+• Over 90% reduction in event website setup time
+• Over 80% reduction in team onboarding time
+• Elimination of manual change cascades across 5–6 previously disconnected touchpoints
+• Higher data quality and consistency through synchronized data management
+What these numbers mean — beyond the metrics: The real impact is not in percentage points. It is in the fact that 
+event teams can once again do what they entered this industry to do: create experiences, delight guests, lead clients 
+strategically - instead of drowning in coordination overhead and operating systems that work against them rather than 
+for them.
+MODEL TRANSPARENCY (optional)
+
+===== PAGE 14 =====
+
+Questions / Answers
+What type of AI model or technique does your solution use? Please provide a simple, high-level explanation that
+helps judges understand the approach (no conﬁdential or proprietary details required).
+eBrain employs a multi-layer AI architecture connecting three technology levels - each optimized for diﬀerent 
+operational requirements in attendee management.
+Foundation models and provider architecture:
+The primary LLM is GPT-4.1, accessed via Azure OpenAI, delivering high-performance reasoning for content 
+generation, natural-language query processing, and agentic tool orchestration. For resilience and EU data sovereignty, 
+an automatic fallback routes to Meta Llama 3.3-70B-Instruct hosted on IONOS EU cloud - ensuring uninterrupted 
+operation even when primary provider content ﬁlters trigger on edge-case inputs. Image generation uses Black Forest 
+Labs FLUX.1-schnell, also hosted on IONOS, for AI-powered event visuals and email headers. This dual-provider 
+architecture guarantees both performance and EU-sovereign data processing.
+Agentic architecture with function calling:
+Emily operates through an agentic loop - the LLM reasons about user intent, selects from tool functions across both 
+the Python AI layer and the Ruby backend, executes them, evaluates results, and chains further actions - up to ten 
+iterations per interaction. Safe operations auto-execute via whitelisting; state-changing actions require explicit user 
+conﬁrmation.
+Specialized AI assistants:
+Along every phase of the event lifecycle - Setup, Run, Onsite, Learn - contextually embedded assistants operate. 
+These are conﬁgured for speciﬁc operational tasks: website building assistance, communication creation, reporting 
+interpretation, operational questions. They deliver contextual guidance adapted to the current data situation, event 
+status, and user role.
+Task-oriented AI agents:
+Agents take over or support concrete operational steps. The CTA agent suggests daily prioritized to-dos based on 
+current event status. Additional agents support email creation, data reconciliation, status updates, and action 
+recommendations. Agents operate in a suggestive mode — ﬁnal decisions remain with the human operator.
+NLP for feedback analysis:
+Natural Language Processing is deployed in the Learn Machine to analyze free-text feedback from surveys and 
+participant comments - pattern recognition, sentiment analysis, and automated summaries enable insights that would 
+take days manually.
+Emily as the integrating dialog layer:
+Emily is the user-facing interface connecting all three AI levels. She processes natural-language queries, routes them to 
+the appropriate subsystem - LLM, assistant, or agent - and delivers answers, recommendations, or action suggestions 
+in a uniﬁed dialogic interaction.
+Technical stack and infrastructure:
+Python FastAPI microservices for AI processing, Rails 8 backend for data persistence and tool execution, Nuxt 3 and 
+Vue frontend, PostgreSQL for operational and AI session data. YAML-based prompt engineering with versioned 
+templates ensures reproducible AI behavior. The entire architecture runs on EU-sovereign cloud infrastructure (IONOS), 
+is GDPR-compliant, and addresses EU AI Act documentation requirements.
+
+===== PAGE 15 =====
+
+Questions / Answers
+SUPPORTING MATERIAL
+Video Link (optional)
+eBrain AI
+time change
+01:55
+1. Additional upload if required, screenshots, dashboards, examples, test results
+89GALEKCJZJ7BIA_eBrain_-_Executive_Summary_-_most_innovative_award.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/c848b200-47d7-4417-8377-ea49ce882198/89GALEKCJZJ7BIA_eBrain_-
+_Executive_Summary_-_most_innovative_award.pdf)
+2. Additional upload if required, screenshots, dashboards, examples, test results
+89GALEKCJZJ7BIA_eBrain_-_event_creation_and_webbuilding_process.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/0e807a01-0eb3-438f-b5ee-9c93125911f2/89GALEKCJZJ7BIA_eBrain_-
+_event_creation_and_webbuilding_process.pdf)
+3. Additional upload if required, screenshots, dashboards, examples, test results
+89GALEKCJZJ7BIA_eBrain-analytics.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/f94c513c-191d-4cb6-91c6-9bca53af3864/89GALEKCJZJ7BIA_eBrain-analytics.pdf)
+4. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+5. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+
+===== PAGE 16 =====
+
+Scoring  Un-pin scoring panel
+Questions / Answers
+DECLARATION FIELD
+By completing this nomination you are agreeing to the terms and conditions and declare that this entry form is eligible
+for entry. You are conﬁrming all facts and ﬁgures contained within are accurate and true.
+I agree
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+Criteria Score
+Innovation *
+How original and forward-thinking is the approach?
+Whether you built an AI solution, adopted AI within your own events operation, or are
+bringing an early-stage concept to market, judges want to see genuine originality.
+Has AI been applied in a new or distinctive way?
+Does it solve a real problem creatively rather than following the obvious path?
+Look beyond oﬀ-the-shelf deployment and assess the quality of thinking behind the
+approach.
+/ 100
+Impact *
+What diﬀerence has this made, or what diﬀerence is it credibly expected to make?
+For live solutions, look for concrete evidence -- engagement rates, time saved, revenue
+generated, cost reduction, satisfaction scores.
+For pilot or beta-stage entries, early indicators such as user testing results, pilot
+outcomes, letters of intent, or projected impact grounded in credible data are all valid.
+Strong entries will be speciﬁc, not vague.
+/ 100
+S a ve
+
+===== PAGE 17 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Execution *
+How well has this been implemented or developed?
+For suppliers and vendors, consider the quality of the build, the robustness of delivery,
+and how challenges were handled.
+For organisers, consider how well AI was embedded into operations and how the team
+managed change.
+For early-stage entries, assess the quality of the product so far, the clarity of the
+roadmap, and the credibility of the team's approach.
+Thoughtful, professional execution at any stage counts highly.
+/ 100
+Results *
+What has been achieved, and what does the evidence show?
+For established solutions, consider client outcomes, retention, testimonials, and industry
+recognition alongside hard metrics.
+For organisers, attendee feedback, operational improvements, and stakeholder
+satisfaction all count.
+For startups or beta entries, judges should look for credible progress -- pilot
+conversions, early user feedback, investment secured, or strategic partnerships -- and
+should assess potential alongside proven outcomes.
+Do not penalise entries for being early stage; reward evidence of meaningful progress
+and a clear path to impact.
+/ 100
+Total -
+
+===== PAGE 18 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Feedback
+Dictation disable
+You speak: English
+Text will be: English
+ Start dictation  (20s)
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+S a ve

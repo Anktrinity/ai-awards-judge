@@ -1,0 +1,37 @@
+version: 1
+name: Event Tech and AI Awards Default Rubric
+scale:
+  total: 400
+  dimensions:
+    - key: innovation
+      label: Innovation
+      max_score: 100
+      description: Originality, distinctiveness, and quality of thinking in the AI approach.
+    - key: impact
+      label: Impact
+      max_score: 100
+      description: Credible business, attendee, organizer, or community value.
+    - key: execution
+      label: Execution
+      max_score: 100
+      description: Product maturity, implementation quality, and delivery realism.
+    - key: results
+      label: Results
+      max_score: 100
+      description: Evidence, outcomes, proof points, testimonials, and measurable traction.
+quick_bands:
+  exceptional: "90-100"
+  strong: "80-89"
+  solid: "70-79"
+  mixed: "60-69"
+  weak: "below 60"
+tie_break_order:
+  - clearer_evidence
+  - stronger_category_fit
+  - more_distinctive_ai_use
+  - more_defensible_real_world_value
+rules:
+  - Reward specificity over hype.
+  - Do not over-penalize early-stage entrants, but keep evidence standards real.
+  - Separate observed evidence from inference.
+  - Mark rankings as provisional when intake is incomplete.

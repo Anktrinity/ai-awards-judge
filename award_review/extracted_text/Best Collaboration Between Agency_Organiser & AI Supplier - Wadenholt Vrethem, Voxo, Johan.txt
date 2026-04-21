@@ -1,0 +1,369 @@
+
+
+===== PAGE 1 =====
+
+ Wadenholt Vrethem, Voxo, Johan  3A32MWTJF8W34RZ
+Event Technology Awards: AI Edition
+Questions / Answers
+ENTRANT DETAILS
+First Name
+Johan
+Last Name
+Wadenholt Vrethem
+Email
+johan@voxo.ai
+Contact Number
++46735096845
+COMPANY INFORMATION
+Company / Organisation Name
+Voxo
+Product Name (optional)
+Voxo Event
+Company proﬁle
+Voxo is redeﬁning what events are worth. Built on the conviction that the most valuable knowledge shared at 
+conferences, summits, and corporate events should never disappear into a hallway conversation, Voxo delivers next-
+generation AI services that capture, transform, and extend event content in real time, at scale. Founded to solve a 
+problem the industry had accepted as inevitable, namely the Forgetting Curve, missed sessions, and the mountain of 
+post-event production work, Voxo has become the infrastructure layer powering some of the world's most prestigious 
+events. From Informa's AI Summit Series in London and New York to HubSpot's global events and Genesys Xperience, 
+Voxo has generated over hundreds of thousands of content downloads across its client portfolio, serving audiences 
+from 400 to 15,000+ attendees. Operating across two entities, Voxo AB in Sweden and Voxo AI LLC in the US, the 
+company serves the global B2B event market with a product that organizers, sponsors, speakers, and attendees all 
+immediately understand the value of. Voxo doesn't just make events smarter. It turns every session into a lasting, 
+monetisable, sponsor-branded asset, and in doing so, transforms how the world's knowledge is captured, consumed, 
+and kept alive.
+YOUR PRODUCT
+  Best Collaboration Between Agency/Organiser & AI Supplier
+Recognising partnerships that demonstrate eﬀective real-world application of AI with clear, measurable outcomes.
+
+===== PAGE 2 =====
+
+Questions / Answers
+Description of your technology
+Every event loses knowledge the moment the session ends. Voxo is the platform built to make sure that never happens 
+again.
+At its core, Voxo captures live audio from every stage simultaneously, processing each session through a proprietary 
+pipeline that combines transcription, AI content generation, quality assurance, and branded publishing, all within 
+minutes of a session ending. What would take an in-house production team months to deliver, Voxo produces before 
+the next speaker has even left the stage.
+The Intelligence Layer
+Voxo is LLM-agnostic by design, integrating with OpenAI, Google Gemini, Anthropic Claude, or client-mandated 
+models such as Salesforce Einstein. The platform ingests raw audio, generates structured transcripts, and applies 
+multiple layers of natural language processing to extract key takeaways, speaker quotes, thematic clusters, and 
+editorial-quality summaries in a single automated ﬂow.
+The Product Suite
+Every output is immediately branded in the event's visual identity and ready to publish. AI Session Summaries are 
+delivered within minutes of each session concluding, available in desktop, mobile, and LinkedIn-optimised formats. AI 
+Podcasts transform the same content into ﬁve-minute conversational audio recaps, with sponsor announcements 
+woven seamlessly into the conversation. Daily and full Event Reports consolidate intelligence from every stage into 
+executive-ready documents, complete with buzzword counters and deep-dive articles on trending topics. For multi-
+track events, Theme Reports give each content stream its own dedicated, sponsor-ready publication.
+On-site, Voxo extends beyond the screen. Digital signage surfaces real-time highlights between talks, while Live AI 
+Commenting summarises sessions minute by minute and streams those insights to venue screens or attendees' 
+mobile devices, ensuring no one misses a key moment regardless of which room they are in. Each speaker also walks 
+away with a polished AI summary of their own session, ready to share with their networks in one click.
+Human-in-the-Loop Quality Assurance
+What separates Voxo from raw AI output is its dedicated QA layer. Every piece of content is reviewed by a human team 
+before publishing: company and product names veriﬁed, speaker titles conﬁrmed, and speaker quotes audio-checked 
+against original transcripts. The result is content that carries the editorial integrity of a professional publications team, 
+produced at AI speed.
+Integration, Reach, and ROI
+Voxo is built to live inside existing event ecosystems rather than sit alongside them. The platform embeds directly into 
+event apps via iFrame or unique session URLs, with native integrations spanning RainFocus, Swapcard, Cvent, Grip, 
+ExpoPlatform, Swoogo, Amego, and more. Audio streaming piggybacks on existing AV infrastructure, making technical 
+setup seamless.
+All content lives in a fully branded Content Hub where every download is tracked and every share is measured. 
+Organisers gain granular insight into which sessions resonated most, shaping future programming with real data. Voxo 
+also opens entirely new commercial models through sponsor-branded summaries and micro-ticketing, transforming the 
+post-event archive into an active revenue stream.
+The result is an end-to-end AI content infrastructure that makes events immortal, sponsors measurable, and 
+knowledge unstoppable.
+TECHNOLOGY DESCRIPTION
+
+===== PAGE 3 =====
+
+Questions / Answers
+Explain how the AI works in your solution?
+Voxo's AI content platform operates through a collaborative partnership model where the AI supplier works closely with 
+the event organiser throughout the entire event lifecycle. The technology itself is a real-time content generation system 
+that processes live audio and produces multiple output products—summaries, podcasts, reports, and branded assets. 
+What distinguishes the collaboration model is that the AI supplier is not a black-box vendor, but an active partner at 
+every stage. Pre-event, Voxo's team works with the organiser on project planning, brand design, AV coordination, and 
+marketing strategy. During the event, Voxo's team is there to monitor production, ensure quality, and adapt to changing 
+conditions. Post-event, Voxo provides analytics and strategic guidance to help organisers understand what worked 
+and plan for future events. The AI system itself piggybags on existing AV infrastructure rather than requiring 
+deployment of new equipment. This reduces technical complexity and cost. The platform integrates natively with the 
+organiser's event tech stackand the integration is seamless. Attendee data, session information, speaker details all 
+ﬂow automatically from the event system into the AI pipeline. The result is a partnership where the AI supplier functions 
+almost as an extension of the organiser's team.
+What speciﬁc problem does this AI solve?
+Event organisers and the agencies that manage events have traditionally faced a diﬃcult choice when considering AI-
+content services. Option one: deploy an AI vendor at the event, but treat them as a vendor. The vendor delivers their 
+software, provides limited support, and the organiser is responsible for success. If something goes wrong, if the output 
+quality is poor, if the integration with the event tech stack fails, the organiser is left to troubleshoot alone. Option two: 
+don't use AI services at all, and accept that event content will be ephemeral. The traditional vendor-buyer relationship 
+creates distance and misaligned incentives. The vendor's goal is to deploy the product. The organiser's goal is to 
+create exceptional events with lasting impact. Voxo solves this problem by adopting a partnership model rather than a 
+vendor-buyer model. The AI supplier becomes an extension of the organiser's team, sharing responsibility for success. 
+Voxo's team works with the organiser from initial planning through post-event analysis. They understand the 
+organiser's goals, constraints, and priorities. When something goes wrong, they troubleshoot together. When an 
+opportunity emerges to create exceptional content, they collaborate to execute it. This partnership approach aligns 
+incentives and ensures everyone is working toward the same goals.
+What makes your approach diﬀerent or innovative?
+Voxo's collaborative partnership model is innovative in how it transforms the relationship between technology providers 
+and event organisers. Historically, technology vendors have been arms-length relationships. You buy the software, the 
+vendor supports it, and that's the extent of the partnership. Voxo inverts this model by making the relationship 
+collaborative and ongoing. The partnership begins pre-event with project planning meetings where Voxo's team learns 
+about the organiser's goals, audiences, speakers, and success metrics. Design and Marketing sessions ensure that 
+generated content reﬂects the organiser's visual identity and messaging. This pre-event investment ensures that when 
+the event runs, everything is optimized. During the event, Voxo's team monitors production in real-time. If a session is 
+experiencing technical diﬃculties, they troubleshoot. If content quality is lower than expected, they investigate and 
+improve. If new opportunities emerge—a session is resonating particularly strongly with attendees—they suggest ways 
+to amplify that content. Post-event, Voxo provides detailed analytics showing which content performed best, which 
+sessions resonated, which topics drove engagement. This data becomes the foundation for the organiser's strategy for 
+future events. The innovation is that the AI supplier functions as a strategic partner, not just a technology vendor.
+VALIDATION
+
+===== PAGE 4 =====
+
+Questions / Answers
+How did you test, validate, or quality-check the AI outputs to ensure they were accurate, safe, or reliable?
+Voxo's quality assurance process is comprehensive, combining automated screening with expert human review. Every 
+generated summary undergoes validation against the original session recording for accuracy. Speaker names and titles 
+are veriﬁed using oﬃcial event directories and LinkedIn. Company and product names are checked for correct spelling 
+and context. All direct quotations are audio-veriﬁed to ensure they are exact, in proper context, and accurately 
+represent the speaker's position. Imagery and visual assets are reviewed for quality, accuracy, and brand compliance. 
+The QA process scales across concurrent sessions through a tiered approach where automated systems catch 
+obvious errors and human reviewers verify accuracy and quality standards.
+IMPACT
+In one summary, explain the overall impact of your AI solution. Please cover four areas: innovation, execution, user or
+customer outcomes, and measurable results.
+Innovation
+Voxo’s core innovation is not only technological, but relational. It redeﬁnes how AI suppliers and event organisers work 
+together by replacing the traditional vendor-client dynamic with a fully integrated partnership model. Historically, AI and 
+event technology providers have operated at arm’s length, delivering tools that organisers are expected to implement, 
+manage, and troubleshoot independently. This creates misaligned incentives, where the supplier’s responsibility ends 
+at deployment, while the organiser carries the burden of execution and outcome.
+Voxo fundamentally changes this structure by embedding itself into the organiser’s workﬂow as an operational and 
+strategic partner. Rather than delivering a standalone product, the platform is implemented as part of a collaborative 
+system where both parties share responsibility for success. This means that planning, execution, and optimisation are 
+conducted jointly, with continuous alignment on goals, priorities, and outcomes.
+The innovation lies in how this partnership is operationalised. Pre-event, Voxo works directly with organiser teams to 
+design content strategies, align branding, and coordinate technical infrastructure. During the event, the collaboration 
+becomes real-time, with active monitoring, troubleshooting, and optimisation taking place as sessions unfold. Post-
+event, the partnership continues through analytics and strategic feedback loops, ensuring that learnings are carried 
+forward into future events.
+This approach transforms AI from a tool into a capability embedded within the organiser’s organisation. It reduces 
+friction, eliminates gaps in responsibility, and ensures that the technology is fully aligned with the event’s objectives.
+By aligning incentives and integrating execution, Voxo introduces a new standard for collaboration in event technology. 
+The AI supplier is no longer a vendor delivering software, but a partner contributing directly to the success and impact 
+of the event.
+
+===== PAGE 5 =====
+
+Questions / Answers
+Execution
+Voxo’s execution model is built around continuous collaboration across the entire event lifecycle, ensuring that both the 
+organiser and the AI supplier operate as a uniﬁed team rather than separate entities. This approach enables consistent 
+delivery of high-quality outputs even in complex, high-pressure event environments.
+Execution begins in the pre-event phase, where Voxo works closely with organiser teams to establish a shared 
+foundation. This includes detailed project planning, where objectives, content strategy, and success metrics are 
+aligned. Branding sessions ensure that all outputs reﬂect the organiser’s identity, while technical coordination with AV 
+teams ensures seamless audio capture across all stages. Integration with the organiser’s existing tech stack allows 
+data to ﬂow automatically into the AI pipeline, reducing manual work and eliminating potential points of failure.
+During the event, execution becomes highly dynamic and collaborative. Voxo’s team remains actively involved, either 
+on-site or on-call, monitoring production in real time. As sessions conclude, content is generated within minutes, but 
+the collaboration does not stop at automation. If technical issues arise, both teams work together to resolve them 
+immediately. If certain sessions generate exceptional engagement, Voxo can proactively suggest ways to amplify that 
+content. This real-time collaboration ensures that opportunities are captured and challenges are addressed as they 
+happen.
+Post-event execution continues the partnership. Voxo provides detailed analytics and insights, enabling organisers to 
+understand content performance and audience engagement. These insights are not delivered in isolation but are 
+discussed collaboratively, forming the basis for future event improvements and strategic decisions.
+What distinguishes this execution model is its consistency. Regardless of event size, format, or complexity, the same 
+collaborative structure ensures that execution remains aligned, responsive, and outcome-driven.
+Outcome
+The outcomes of Voxo’s collaboration model extend beyond improved content production to fundamentally reshape 
+how organisers and technology partners work together. By aligning incentives and sharing responsibility, the platform 
+creates a more eﬃcient, responsive, and results-driven operating model.
+For organisers, the primary outcome is reduced operational burden combined with increased conﬁdence in delivery. 
+Instead of managing a technology vendor and troubleshooting issues independently, organisers gain a partner that 
+actively contributes to execution. This allows internal teams to focus on higher-value activities such as attendee 
+experience, programming, and strategic planning, while still beneﬁting from advanced AI capabilities.
+The collaboration model also leads to higher quality outputs. Because Voxo is directly involved in both planning and 
+execution, the generated content is better aligned with the organiser’s goals, brand, and audience expectations. 
+Continuous feedback loops during the event ensure that quality is maintained and improved in real time, rather than 
+relying on post-event corrections.
+For both parties, the outcome is stronger alignment and accountability. Success is no longer deﬁned by whether the 
+technology functions, but by whether the event delivers meaningful results. This shared ownership creates a more 
+proactive and solution-oriented working relationship.
+Attendees beneﬁt indirectly from this model through more consistent and accessible content, while speakers gain 
+greater visibility through high-quality outputs. However, the most signiﬁcant outcome is at the organisational level, 
+where collaboration replaces fragmentation.
+At an industry level, Voxo’s approach sets a new expectation for how AI suppliers should engage with organisers. It 
+demonstrates that the most eﬀective use of AI is not as a standalone tool, but as a capability embedded within a 
+collaborative partnership.
+
+===== PAGE 6 =====
+
+Questions / Answers
+Results
+Voxo’s results demonstrate that its collaboration model is not only conceptually strong but also proven in real-world 
+applications across a diverse range of events. The platform has been deployed across multiple large-scale and 
+complex events, consistently delivering high-quality outputs through close coordination between Voxo and organiser 
+teams.
+Across its portfolio, Voxo has generated over 100,000 content downloads, reﬂecting strong audience engagement and 
+validating the eﬀectiveness of the collaborative execution model. At AI Summit London, the partnership supported 176 
+sessions across 7 stages, delivering over 21,000 downloads and 17,000 unique views. This level of output and 
+engagement would not have been possible without tight coordination between Voxo and the organiser’s teams across 
+content, AV, and platform integration.
+Similarly, AI Summit New York delivered over 25,000 downloads across 205 sessions, demonstrating the ability to 
+replicate this collaborative model across geographies and event formats. At Genesys Xperience, one of the most 
+complex deployments with 15 concurrent stages, Voxo and the organiser successfully managed real-time content 
+production, resulting in over 10,300 downloads. This highlights the robustness of the partnership model even under 
+high operational pressure.
+Other events such as TechArena 2025, RainFocus Insight, and EMS 2025 further demonstrate consistency across 
+diﬀerent scales, industries, and audience sizes. In each case, the collaboration between organiser and AI supplier 
+enabled eﬃcient execution, high-quality outputs, and strong engagement.
+Qualitative feedback reinforces these results. Event professionals have highlighted not only the quality of the content 
+but also the value of having a proactive and engaged partner throughout the process. The perception of Voxo as “part 
+of the team” rather than an external vendor is a recurring theme in customer feedback.
+Together, these results provide clear evidence that Voxo’s collaboration model delivers measurable improvements in 
+execution, output quality, and overall event impact, establishing a new benchmark for partnerships between organisers 
+and AI suppliers.
+CASE STUDY
+Describe how the AI was used in practice.
+Voxo's platform is deployed across the full portfolio using the same core technical architecture customized for each 
+event's needs. Pre-event coordination with organiser teams ensures audio capture integration, branded template 
+creation, and content strategy alignment. During events, as sessions conclude, audio is captured and routed to Voxo's 
+processing pipeline. Within minutes, the platform generates written summaries, conversational podcasts, and 
+contributes to daily and theme reports. All content is automatically branded based on pre-conﬁgured speciﬁcations 
+and undergoes human QA review. Approved content is published to attendee platforms. The platform scales from small 
+events with dozens of sessions to major conferences with 200+ concurrent sessions across multiple stages. At online 
+events, the platform operates in virtual environments. Across all deployments, the core workﬂow remains consistent: 
+capture audio, transcribe, generate content with AI, QA, and publish.
+
+===== PAGE 7 =====
+
+Questions / Answers
+What measurable results or improvements did it deliver?
+(Include any evidence that shows real-world impact.) 
+Voxo's results across the portfolio prove eﬀectiveness and scalability. Combined AI Summit London and New York 
+results: 381 sessions, approximately 10,000 attendees, 46,000+ downloads demonstrating enterprise-level event 
+complexity handling. At Genesys Xperience with 15 stages simultaneously (highest complexity), the platform generated 
+10,300 downloads proving extreme concurrency capability. At TechArena 2025, 15,000+ downloads across a diﬀerent 
+industry vertical demonstrates broad applicability. Customer feedback conﬁrms results: Caroline Hicks noted "17,000 
+unique views is just staggering, proving how valuable both our content and this service were." Steve Johnson noted 
+summaries were shared widely and Voxo is "one of the only tools built speciﬁcally for live programming." Richard 
+Belcher commented on impressive accuracy. Jay Schwedelson oﬀered "Every event needs Voxo!!" These quotes from 
+leading industry professionals represent genuine recognition that Voxo has created a solution transforming events.
+MODEL TRANSPARENCY (optional)
+What type of AI model or technique does your solution use? Please provide a simple, high-level explanation that
+helps judges understand the approach (no conﬁdential or proprietary details required).
+Voxo's platform is built on model-agnostic architecture supporting multiple large language model providers. Customers 
+choose OpenAI, Google Gemini, Anthropic Claude, or Salesforce Einstein based on preferences, cost, and 
+requirements. This ﬂexibility ensures customers control infrastructure and avoid vendor lock-in. The technical pipeline 
+begins with audio capture from existing AV infrastructure. Automatic speech recognition converts session audio into 
+detailed text transcripts with speaker identiﬁcation. These transcripts feed into the chosen large language model with 
+customized prompts designed for each content type. For summaries, prompts extract key points and preserve 
+quotations. For podcasts, prompts generate conversational scripts. For reports, prompts aggregate sessions and 
+identify insights. All prompts avoid hallucination and maintain accuracy with safeguards against bias. Generated 
+content undergoes human-in-the-loop QA with automated systems screening errors and human reviewers verifying 
+accuracy. The complete audit trail of all generation and QA decisions maintains compliance and transparency, allowing 
+customers to see exactly how the AI system is performing and what quality measures are in place.
+SUPPORTING MATERIAL
+
+===== PAGE 8 =====
+
+Questions / Answers
+Video Link (optional)
+Voxo
+H o w  A I S u m m it L o n d o n  B ro k e  R e c o rd s  w ith  V o x o ’s  A I S u m m a rie s
+H o w  A I S u m m it L o n d o n  B ro k e  R e c o rd s  w ith  V o x o ’s  A I S u m m a rie s
+Watch on
+1. Additional upload if required, screenshots, dashboards, examples, test results
+3A32MWTJF8W34RZ_Best_Collaboration_Between_Agency_Organiser_and_AI_Supplier.pdf
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/4fc6883d-a95a-4743-b53d-
+02d104d1768c/3A32MWTJF8W34RZ_Best_Collaboration_Between_Agency_Organiser_and_AI_Supplier.pdf)
+2. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+3. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+4. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+5. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+
+===== PAGE 9 =====
+
+Scoring  Un-pin scoring panel
+Questions / Answers
+DECLARATION FIELD
+By completing this nomination you are agreeing to the terms and conditions and declare that this entry form is eligible
+for entry. You are conﬁrming all facts and ﬁgures contained within are accurate and true.
+I agree
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+Criteria Score
+Innovation *
+How original and forward-thinking is the approach?
+Whether you built an AI solution, adopted AI within your own events operation, or are
+bringing an early-stage concept to market, judges want to see genuine originality.
+Has AI been applied in a new or distinctive way?
+Does it solve a real problem creatively rather than following the obvious path?
+Look beyond oﬀ-the-shelf deployment and assess the quality of thinking behind the
+approach.
+/ 100
+Impact *
+What diﬀerence has this made, or what diﬀerence is it credibly expected to make?
+For live solutions, look for concrete evidence -- engagement rates, time saved, revenue
+generated, cost reduction, satisfaction scores.
+For pilot or beta-stage entries, early indicators such as user testing results, pilot
+outcomes, letters of intent, or projected impact grounded in credible data are all valid.
+Strong entries will be speciﬁc, not vague.
+/ 100
+S a ve
+
+===== PAGE 10 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Execution *
+How well has this been implemented or developed?
+For suppliers and vendors, consider the quality of the build, the robustness of delivery,
+and how challenges were handled.
+For organisers, consider how well AI was embedded into operations and how the team
+managed change.
+For early-stage entries, assess the quality of the product so far, the clarity of the
+roadmap, and the credibility of the team's approach.
+Thoughtful, professional execution at any stage counts highly.
+/ 100
+Results *
+What has been achieved, and what does the evidence show?
+For established solutions, consider client outcomes, retention, testimonials, and industry
+recognition alongside hard metrics.
+For organisers, attendee feedback, operational improvements, and stakeholder
+satisfaction all count.
+For startups or beta entries, judges should look for credible progress -- pilot
+conversions, early user feedback, investment secured, or strategic partnerships -- and
+should assess potential alongside proven outcomes.
+Do not penalise entries for being early stage; reward evidence of meaningful progress
+and a clear path to impact.
+/ 100
+Total -
+
+===== PAGE 11 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Feedback
+Dictation disable
+You speak: English
+Text will be: English
+ Start dictation  (20s)
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+S a ve

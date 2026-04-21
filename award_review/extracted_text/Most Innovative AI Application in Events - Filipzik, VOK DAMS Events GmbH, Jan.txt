@@ -1,0 +1,393 @@
+
+
+===== PAGE 1 =====
+
+ Filipzik, VOK DAMS Events GmbH, Jan  NOBCLFBXPS7J4MT
+Event Technology Awards: AI Edition
+Questions / Answers
+ENTRANT DETAILS
+First Name
+Jan
+Last Name
+Filipzik
+Email
+awards@vokdams.de
+Contact Number
++49 162 2775126 
+COMPANY INFORMATION
+Company / Organisation Name
+VOK DAMS Events GmbH
+Product Name (optional)
+Digital Doppelgänger
+Company proﬁle
+VOK DAMS worldwide is a leading international communications agency for events and live marketing. At 19 locations worldwide, 
+around 300 highly skilled professionals create and produce brand experiences for corporate and public events, trade fairs, roadshows 
+and showrooms. Founded in 1975 and owner-managed ever since, VOK DAMS has a wide range of renowned clients worldwide, such 
+as BMW, Bayer, L'Oréal, Lamborghini, Porsche and SAP, for which they create compelling and result driven live, digital and hybrid 
+productions. The agency's projects are regularly honored by well-respected juries worldwide with creative awards, such as Red Dot, 
+Golden Award of Montreux, Gala, beaworld, Galaxy, BrandEx, EX Awards, and the German Prize for Business Communication. VOK 
+DAMS has oﬃces in Berlin, Frankfurt, Hamburg, Munich, Stuttgart and its headquarters in Wuppertal. In addition, there are international 
+oﬃces in Barcelona, Beijing, Shanghai, Hong Kong, Bordeaux, London, Tallinn, Vienna, Prague, New York, Philadelphia, Sao Paulo and 
+Dubai.
+YOUR PRODUCT
+  Most Innovative AI Application in Events
+Celebrating groundbreaking AI ideas or applications that push the industry forward and deliver clear, creative impact.
+
+===== PAGE 2 =====
+
+Questions / Answers
+Description of your technology
+Digital Doppelgänger turn event planning from assumption-based decision-making into simulation-driven stratey. It is an AI-powered 
+decision intelligence solution that enables organizations to simulate audience reactions before any communication or events goes live. 
+It allows you to test how audiences will react, before committing budget, time and production resources.
+The system creates psychologically grounded behavioral models of real audiences. Instead of delivering a single answer, it generates 
+decision-tested scenarios that make trade-oﬀs, risks and likely outcomes transparent. This replaces a core weakness in the industry: 
+Rather than relying only on assumptions, post-event feedback or costly upfront research, Digital Doppelgänger close this gap and allow 
+organizations to test concepts, messages, formats and strategic choices in advance. The system shows how diﬀerent audience types 
+respond, where engagement is created, where friction may occur and which elements are most likely to drive action, trust or 
+disengagement.
+At its core, the solution combines behavioral science, structured audience modeling and AI-powered simulation. Each Digital 
+Doppelgänger reﬂects stable human drivers such as values, motivations, decision patterns and context-speciﬁc expectations. These 
+models are applied to speciﬁc use cases, for example live events, trade shows, internal communication formats or brand experiences. 
+You can compare alternatives, challenge assumptions and improve decision quality before production begins. Instead of waiting for 
+feedback after execution, you can evaluate strategic options based on likely behavioral responses during the planning phase.
+The product was built to solve a common problem in communication and event design: critical decisions are often made before 
+organizations truly know how their audiences will react. Existing methods either provide feedback too late or require expensive and 
+time-consuming research. Digital Doppelgänger close this gap by adding a practical simulation layer between strategy and execution. 
+The result is a fundamental shift from assumption-based planning to simulation-driven decision-making, reducing uncertainty, 
+accelerating alignment and improving decision quality.  Instead of asking “Will this work?”, you can now test it. 
+Unlike persona-based approached or prompt-driven simulations, Digital Doppelgänger are built on structured weighted bahavioral 
+models that deﬁne decision logic independently from the AI system generating the output. Digital Doppelgänger do not replace creative 
+thinking. They strengthen it you allowing ideas to be tested, reﬁned and validated before exection. 
+TECHNOLOGY DESCRIPTION
+Explain how the AI works in your solution?
+Digital Doppelgänger combine large language models with a structured behavioral framework to simulate how a speciﬁc audience 
+thinks and decides. The AI operates within deﬁned behavioral boundaries.
+At the core is a behavioral structured model based on stable human drivers such as values, motivations, risk tolerance, information 
+preferences and decision patterns. Public signals, domain knowledge and structured inputs are translated into measurable behavioral 
+dimensions. These dimensions deﬁne how a target group processes information and reacts to strategic choices in a speciﬁc scenario. 
+Each model uses weighted variables. This means behavioral traits are calibrated. The same audience model can therefore react 
+diﬀerently depending on the scenario, while still staying consistent in its underlying logic.
+When users test a concept, the language model generates responses within these predeﬁned parameters. It does not “invent” a 
+personality. It executes the decision logic deﬁned by the behavioral framework. This hybrid architecture combines generative AI with 
+structured behavioral weighting. The result is consistent, context-aware simulation of likely audience reactions across communication 
+and event scenarios.
+The System is designed as a scalable and repeatable framework that can be applied across industries, event formats and international 
+markets without requiring custom AI development for each use case.
+
+===== PAGE 3 =====
+
+Questions / Answers
+What speciﬁc problem does this AI solve?
+Digital Doppelgänger address a strctural problem in events and communication design: critical decisions are made before organizations 
+truly know how their audiences will react.
+In most projects, formats, messages, experience concepts and budgets are often deﬁned based on internal assumptions, past 
+experience or limited research. Reliable feedback usually becomes available only after execution when changes are expensive or no 
+longer possible. Alternatively, traditional research methods require signiﬁcant time and ﬁnancial investment and still provide only partly 
+insights into  behavior in speciﬁc scenarios.
+As a result, teams plan under uncertainty reyling on assumptions, internal opinions and interactive trial-and error. They debate internally 
+which version will work better, which elements might create friction, and how diﬀerent audience types will respond. Many high-impact 
+decisions are made without reliable behavioral evidence. Digital Doppelgänger reduce this uncertainty. They allow to simulate likely 
+audience reactions before execution. Instead of guessing, organizations can test strategic options in advance and make more conﬁdent 
+decisions before committing signiﬁcant resources.
+What makes your approach diﬀerent or innovative?
+Digital Doppelgänger introduce a new category of AI in events: pre-decision simulation. They are innovative because they use AI to 
+simulate decisions before they are made.
+While most AI tools in events focus on content generation or automation, Digital Doppelgänger focus on decision intelligence. The key 
+innovation lies in combining large language models with a structured, psychologically grounded behavioral mode.
+Instead of asking a general AI to “act like” a target group, we build calibrated audience models with deﬁned values, motivations and 
+decision patterns. These behavioral parameters guide the AI. The language model executes predeﬁned decision structures. This 
+ensures consistency, explainable and behaviorally grounded output instead of generic outputs.
+The system is also interactive and scenario-based. You can dynamically test diﬀerent strategic variations in real time and immediately 
+see how reactions change depending on context, tone or format. This creates a new operational layer between strategy and execution, 
+where decicsions can be tested before they are implemented. 
+By shifting decision-making from assumption to simulation, Digital Doppelgänger address one of the most fundamental ineﬃciencies in 
+the event industry and redeﬁne how strategic planning is approached.
+VALIDATION
+
+===== PAGE 4 =====
+
+Questions / Answers
+How did you test, validate, or quality-check the AI outputs to ensure they were accurate, safe, or reliable?
+Digital Doppelgänger were tested and validated through a structured, multi-layered process combining academic collaboration, expert 
+review and real-world scenario testing. The goal was to ensure accuracy, stability and realistic audience simulation.
+The behavioral modeling framework was developed in collaboration with academic partners and AI experts from the University of 
+Wuppertal. Their expertise in marketing science and AI-driven synthetic market research supported the design, calibration and 
+validation of the models. This ensured that core dimensions such as values, motivational drivers, decision logic and contextual 
+sensitivity were grounded in established theory rather than assumptions. Validation took place on several levels.
+First, structural validation. The weighted behavioral dimensions were continuously reﬁned to ensure internal consistency and logical 
+coherence. We tested whether outputs remained stable when variables changed. This ensured that responses followed the deﬁned 
+motivational logic and did not drift unpredictably.
+Second, comparative scenario validation. The models were applied retrospectively to past communication and event projects. 
+Simulated reactions were compared with documented real-world outcomes. Instead of feeding post-event data into the system, we 
+replicated scenarios and checked whether the simulated behavior plausibly matched known results.
+Third, expert review. Industry specialists and client-side stakeholders with deep audience knowledge reviewed the outputs. They 
+evaluated whether the simulated reactions realistically reﬂected known audience characteristics. Their feedback was used to 
+recalibrate weightings and contextual sensitivity.
+Fourth, identity-based validation. In controlled settings, Digital Doppelgänger were built to reﬂect real individuals within an organization. 
+These individuals reviewed the simulated responses and assessed whether they aligned with their own decision patterns and 
+preferences. This created a direct qualitative benchmark for behavioral accuracy.
+In addition, system-level safety checks were implemented. The structured behavioral layer constrains the generative AI component, 
+reducing arbitrary outputs and ensuring responses stay within deﬁned parameters. Through academic grounding, iterative calibration, 
+expert validation and controlled real-person testing, Digital Doppelgänger were systematically reﬁned to deliver consistent, plausible 
+and decision-relevant simulations.
+IMPACT
+In one summary, explain the overall impact of your AI solution. Please cover four areas: innovation, execution, user or customer
+outcomes, and measurable results.
+
+===== PAGE 5 =====
+
+Questions / Answers
+Innovation
+Digital Doppelgänger redeﬁne how AI is used in event and communication strategy: to simulate decisions before they are made. This 
+changes how communication and event strategies are developed.
+Most AI applications in this ﬁeld focus on automation, analytics or content generation. Digital Doppelgänger shift the focus to decision 
+foresight. They add a simulation layer between strategy and execution, allowing organizations to explore likely consequences before 
+committing resources. This fundamentally changes planning processes. The innovation is not only technical, but procedural. Audience 
+understanding shifts from a retrospective insight to a proactive decision tool used before execution. It becomes a proactive decision 
+tool used during the strategic phase. Instead of analyzing reactions after the fact, teams can explore likely behavioral dynamics before 
+execution. This creates a new form of anticipatory intelligence.
+Behavioral science is translated into a usable system. Values, motivations and contextual sensitivities are no longer theoretical insights, 
+they become operational variables that guide decision-making. The approach also challenges traditional research models. Surveys and 
+focus groups are static and episodic. Digital Doppelgänger are dynamic and scenario-based. Teams can test variations in real time and 
+observe how small strategic changes inﬂuence likely outcomes.
+As a result, audience insight is no longer a one-time research step. It becomes an ongoing simulation capability embedded in the 
+planning process. By repositioning AI from automation tool to strategic simulation engine, Digital Doppelgänger establish a new 
+working model for communication and event design, one based on foresight rather than assumption or correction. 
+Execution
+The Digital Doppelgänger system is designed for real-world application and scalability. The system translates a complex behavioral 
+framework into a practical, scalable workﬂow that teams can apply without technical barriers. Implementation follows a clear and 
+repeatable process: structured input collection, contextual calibration, behavioral model conﬁguration and scenario-based simulation. 
+Each step is documented and reproducible, ensuring consistency across industries and use cases. The models are pre-structured and 
+do not require custom AI development for each project. This allows eﬃcient deployment while maintaining methodological rigor.
+A key principle is controlled adaptability. The core behavioral architecture remains stable, while contextual factors such as event type, 
+audience composition or communication format can be adjusted without destabilizing the model. This ensures ﬂexibility without 
+compromising reliability. Digital Doppelgänger have already been used in complex,  high-stakes environments, including large-scale 
+brand experiences and international trade shows. In these contexts, the system supported strategic reﬁnement before execution and 
+proved capable of operating under real-world time pressure and complex decision environments.
+Internally, the workﬂow includes structured expert reviews and calibration loops to maintain stability and consistency. The combination 
+of predeﬁned modeling architecture, contextual ﬂexibility and iterative reﬁnement ensures that Digital Doppelgänger are executable and 
+repeatable systems ready for enterprise use.
+ The system has already been applied in real client environments, where it directly enﬂuenced strategic decisions before execution.
+
+===== PAGE 6 =====
+
+Questions / Answers
+Outcome
+Digital Doppelgänger enable faster, more conﬁdent and better-aligned decision-making before resources are committed. The result is 
+better decisions made earlier with less internal debate and less risk.
+Instead of arguing over assumptions, you can test alternatives in a structured way and directly see how likely audience reactions 
+change under diﬀerent conditions. This reduces subjective bias and replace opinion-driven discussions between strategy, creative and 
+leadership teams with structured, evidence-informed evaluation. Clients report improved stakeholder alignment. When behavioral 
+reactions become visible, it is easier to justify strategic choices, prioritize investments and remove elements that add complexity 
+without increasing impact. Concepts become more focused and communication strategies clearer. 
+Decision cycles are signiﬁcantly shortened,with teams reducing decision time by up to 30%,  as you can test and validate options 
+instantly instead of relying on additional research or prolonged internal alignment. Strategic direction is clariﬁed before production 
+begins. Creative quality improves as ideas are tested and reﬁned before execution. Tone, sequencing, format and activation logic can 
+be reﬁned before execution. Creativity becomes more intentional and strategically grounded. Early applications show measureable 
+improvements in decision speed, alignement and budget eﬃeciency across complex event environments. 
+Digital Doppelgänger also deepen audience understanding. Instead of working with broad segments, teams can design for distinct 
+behavioral types. This enables more relevant, “made-for-me” moments that resonate with speciﬁc motivations. The system helps 
+correct planner bias by reﬂecting audiences as they are, not as they are assumed to be. Blind spots in strategic design become visible.
+Importantly, the approach includes audiences who are less vocal or less likely to engage. It supports more inclusive and eﬀective 
+experience design. The models also surface underlying motivations that participants may not explicitly articulate. Because expressed 
+preferences are often inﬂuenced by cognitive biases or social norms, they do not always reveal true drivers of behavior. By modeling 
+decision dynamics rather than relying only on self-reported input, these latent factors become visible and usable.
+Over time, repeated use strengthens organizational learning and strategic intuition. The overall outcome is a shift from assumption-
+driven planning to structured, behavior-informed decision-making. Organizations can address diverse audience needs without losing 
+strategic focus and design coherent experiences with greater conﬁdence.
+Results
+Digital Doppelgänger deliver measurable improvements in decision speed, planning eﬃciency and resource allocation. Projects require 
+up tp 30% fewer concept interations, as weaker options are identiﬁed and eliminated earlier in the process. Clients report up to 25% 
+faster internal alignment and a signiﬁcant reduction in late-stage changes.
+In large-scale event and brand experience contexts, the solution reduced the number of strategic concept iterations before ﬁnal 
+approval. You reached a preferred direction more quickly, shortening alignment phases and minimizing structural changes late in the 
+process. This led to more eﬃcient planning and fewer production adjustments. In trade show and live communication environments, 
+simulation-based pre-testing identiﬁed elements that were unlikely to activate audiences as intended. By adapting or removing these 
+components before execution, clients avoided unnecessary production costs and redirected budgets toward higher-impact elements. 
+This also increased audience relevance, as formats deciand content were aligned with real behavioral drivers rather than assumptions.
+Digital Doppelgänger also improved prioritization. When multiple formats or narrative approaches were being considered, simulations 
+enabled earlier elimination of weaker variants. This reduced uncertainty and allowed earlier commitment to execution pathways. Clients 
+reported increased internal conﬁdence when presenting strategies to executive stakeholders. Because simulated audience reactions 
+were available in advance, recommendations were supported by structured behavioral logic rather than creative argument alone. This 
+strengthened credibility at board and senior management levels.
+Qualitative feedback consistently indicates faster sign-oﬀ processes, stronger cross-functional alignment and greater robustness of 
+ﬁnal concepts. While speciﬁc metrics vary by project, clients report measurable reductions in iteration cycles, planning time and late-
+stage adjustments, alongside more eﬃcient budget allocation. In high-budget environments, even small improvements in concept 
+precision translated into meaningful cost savings and reduced downstream correction eﬀort. Across applications, Digital Doppelgänger 
+consistently reduce strategic risk, shorten decision cycles and improve the allocation of ﬁnancial and creative resources before 
+execution.
+
+===== PAGE 7 =====
+
+Questions / Answers
+CASE STUDY
+Describe how the AI was used in practice.
+Digital Doppelgänger were used in real, high-stakes communication and event projects to test strategic decisions before execution. 
+The following two cases show how the system worked in practice: a strategic enterprise event and a major international trade show 
+presence. In both cases, the process started with a structured analysis of existing material, including client brieﬁngs, objectives, target 
+group deﬁnitions, key messages and format concepts. This was complemented by contextual research to move beyond formal 
+audience labels and identify the real decision logics behind the target groups. These logics were translated into structured behavioral 
+variables within the model, allowing consistent simulation across diﬀerent scenarios.
+In the enterprise event case, the system translated a broad and formal target group into two clear decision perspectives. One focused 
+on proof, governance, scalability and internal legitimacy. The other focused on strategic insight, intellectual relevance and long-term 
+positioning. These behavioral models were then used to simulate how each perspective would interpret the planned dramaturgy, key 
+messages, interaction formats and call to action. Through iterative testing, argumentation was sharpened, sequencing was optimized 
+and critical elements were reﬁned before execution. Because each simulation run followed the same model architecture, changes in 
+output reﬂected contextual adjustments rather than subjective reinterpretation.
+In an international trade show case, Digital Doppelgänger were applied to evaluate a complex exhibition stand with multiple exhibits, 
+open visitor ﬂow and diverse stakeholder roles. Two dominant decision logics were modeled: one prioritizing evidence, reliability and 
+accountability, and another emphasizing eﬃciency, system performance and economic impact. The simulation tested how these 
+perspectives would navigate the stand, interpret exhibits and assess overall narrative coherence. This made it possible to clearly 
+identify which elements built trust and strategic relevance, and which required clearer operational grounding.
+Digital Doppelgänger enabled you to replace abstract audience assumptions with structured behavioral evaluation before committing to 
+ﬁnal production. 
+What measurable results or improvements did it deliver?
+(Include any evidence that shows real-world impact.) 
+Digital Doppelgänger improved strategic precision, accelerated decision-making and reduced risk before execution. Across projects, 
+teams reached clearer decisions faster and with fewer late-stage corrections.
+In the enterprise event case, the most visible improvement was the shift from a broad target group description to a structured, 
+decision-oriented audience model. This increased the precision of strategic evaluation. Argumentation became sharper, proof elements 
+more visible, interaction formats more aligned with audience expectations and the call to action more clearly embedded in a coherent 
+decision journey. As a result, fewer concept iterations were required and executive-level alignment was achieved more quickly.
+In the trade show case, Digital Doppelgänger transformed the stand from a collection of individual exhibits into a coherent business 
+argument. The simulation revealed where strategic value was strong across decision perspectives and where future-oriented elements 
+lacked operational clarity. This enabled earlier prioritization and more focused budget allocation before production decisions were 
+ﬁnalized.
+Across applications, four measurable patterns emerged: First, fewer late-stage concept revisions due to earlier stress-testing of 
+strategic assumptions. Second, shorter internal alignment cycles driven by structured decision logic instead of subjective debate. 
+Third, more precise budget allocation toward elements with higher simulated impact. Fourth, greater executive conﬁdence when 
+presenting strategic choices, supported by transparent behavioral reasoning. The consistent result was a structural improvement in 
+decision-making: more eﬃcient allocation of both budget and creative resources, stronger prioritization and reduced pre-execution risk.
+Importantly, these improvement patterns appeared across diﬀerent contexts. While speciﬁc results varied depending on the project, the 
+underlying modeling approach proved both robust and adaptable to diﬀerent environments. Digtial Doppelgänger transform event 
+planning from a reactive discipline into a predivitive one. 
+MODEL TRANSPARENCY (optional)
+
+===== PAGE 8 =====
+
+Questions / Answers
+What type of AI model or technique does your solution use? Please provide a simple, high-level explanation that helps judges
+understand the approach (no conﬁdential or proprietary details required).
+Digital Doppelgänger combine structured behavioral modeling with large language models. In simple terms: a deﬁned audience logic 
+guides a generative AI system to simulate how real target groups would decide in speciﬁc scenarios.
+The system consists of two layers. First, a structured behavioral modeling layer. Second, a generative language model layer. The 
+behavioral layer deﬁnes weighted psychological dimensions such as values, motivations, risk orientation, information preferences and 
+decision patterns. These dimensions are organized into a stable conﬁguration that represents a speciﬁc target group. This structured 
+proﬁle deﬁnes how the audience thinks and decides. It sets clear boundaries and response tendencies, ensuring that simulations 
+remain consistent instead of varying randomly.
+On top of this layer, a large language model (such as OpenAI, Google Gemini or Anthropic Claude) is used to generate scenario-based 
+responses. The language model produces outputs within the deﬁned behavioral framework. It functions as an execution layer, while the 
+behavioral model deﬁnes the decision logic and evaluation criteria. Each simulation follows a structured input–evaluation–response 
+process. This allows systematic testing of diﬀerent scenarios rather than generating isolated outputs.
+Because the behavioral modeling layer is independent from the underlying language model, the framework is system-agnostic. It can 
+be deployed across diﬀerent AI providers without changing the conceptual structure. Current implementations primarily use leading 
+OpenAI models for performance and stability, but the framework has been successfully adapted to other major AI systems.
+No proprietary training of foundation models is required. The innovation lies in structured conﬁguration, contextual calibration and 
+controlled simulation logic applied on top of existing generative AI infrastructure. This ensures portability, scalability and long-term 
+adaptability as AI ecosystems evolve.
+SUPPORTING MATERIAL
+Video Link (optional)
+VOK DAMS worldwide
+D o p p e lg ä n g e r E x p la in e r
+D o p p e lg ä n g e r E x p la in e r
+Watch on
+
+===== PAGE 9 =====
+
+Questions / Answers
+1. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-b00e-
+bfcba29ca371/responses/18fe3fe2-c022-4635-9112-b8c0e1d7960e/NOBCLFBXPS7J4MT_Digital_Doppelganer_Keyvisual.jpg)
+2. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-b00e-
+bfcba29ca371/responses/9ef61b4d-071f-424a-b7d7-
+c099280cb0fd/NOBCLFBXPS7J4MT_01_Digital_Doppelgänger_help_to_validate_decisions_and_reduce_risks..png)
+3. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-b00e-
+bfcba29ca371/responses/aa41667e-ebdc-4032-b3e1-
+0642deb2923c/NOBCLFBXPS7J4MT_02_With_Digital_Doppelgänger_essential_elements_of_an_event_can_be_tested_in_advance..png)
+
+===== PAGE 10 =====
+
+Scoring  Un-pin scoring panel
+Questions / Answers
+4. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-b00e-
+bfcba29ca371/responses/923e5cce-1066-4226-a555-bf5fcbb40fd7/NOBCLFBXPS7J4MT_03_The_Digital_Doppelgänger_are_pre-
+trained_and_only_need_to_be_supplemented_with_a_few_speciﬁc_pieces_of_information..png)
+5. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-b00e-
+bfcba29ca371/responses/530546c6-702c-48eb-9203-
+5e0abeb275bc/NOBCLFBXPS7J4MT_04_A_total_of_39_parameters_help_to_calibrate_the_Digital_Doppelgänger..png)
+DECLARATION FIELD
+By completing this nomination you are agreeing to the terms and conditions and declare that this entry form is eligible for entry. You are
+conﬁrming all facts and ﬁgures contained within are accurate and true.
+I agree
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+Criteria Score
+Innovation *
+How original and forward-thinking is the approach?
+Whether you built an AI solution, adopted AI within your own events operation, or are bringing an early-
+stage concept to market, judges want to see genuine originality.
+Has AI been applied in a new or distinctive way?
+Does it solve a real problem creatively rather than following the obvious path?
+Look beyond oﬀ-the-shelf deployment and assess the quality of thinking behind the approach.
+/ 100
+S a ve
+
+===== PAGE 11 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Impact *
+What diﬀerence has this made, or what diﬀerence is it credibly expected to make?
+For live solutions, look for concrete evidence -- engagement rates, time saved, revenue generated, cost
+reduction, satisfaction scores.
+For pilot or beta-stage entries, early indicators such as user testing results, pilot outcomes, letters of
+intent, or projected impact grounded in credible data are all valid.
+Strong entries will be speciﬁc, not vague.
+/ 100
+Execution *
+How well has this been implemented or developed?
+For suppliers and vendors, consider the quality of the build, the robustness of delivery, and how
+challenges were handled.
+For organisers, consider how well AI was embedded into operations and how the team managed
+change.
+For early-stage entries, assess the quality of the product so far, the clarity of the roadmap, and the
+credibility of the team's approach.
+Thoughtful, professional execution at any stage counts highly.
+/ 100
+Results *
+What has been achieved, and what does the evidence show?
+For established solutions, consider client outcomes, retention, testimonials, and industry recognition
+alongside hard metrics.
+For organisers, attendee feedback, operational improvements, and stakeholder satisfaction all count.
+For startups or beta entries, judges should look for credible progress -- pilot conversions, early user
+feedback, investment secured, or strategic partnerships -- and should assess potential alongside proven
+outcomes.
+Do not penalise entries for being early stage; reward evidence of meaningful progress and a clear path to
+impact.
+/ 100
+Total -
+
+===== PAGE 12 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Feedback
+Dictation disable
+You speak: English
+Text will be: English
+ Start dictation (20s)
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+S a ve

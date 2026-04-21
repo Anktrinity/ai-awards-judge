@@ -1,0 +1,289 @@
+
+
+===== PAGE 1 =====
+
+ Baran, Eventpack, Kerem  NK3MKIFKXQTGW6Q
+Event Technology Awards: AI Edition
+Questions / Answers
+ENTRANT DETAILS
+First Name
+Kerem
+Last Name
+Baran
+Email
+kb@eventpack.com
+Contact Number
++19176890352
+COMPANY INFORMATION
+Company / Organisation Name
+Eventpack
+Product Name (optional)
+AI Registration Approval
+Company proﬁle
+Eventpack is an on-site event management platform founded by Serhat Sarikavak and Kerem Baran, the team behind 
+Boomset, one of the industry's most established on-site event technology companies. Boomset was acquired by 
+Hopin in 2021, and Eventpack was launched to carry that expertise forward under a new, independent venture.
+The platform covers the full on-site event stack: registration and ticketing, self-service kiosks, badge printing, session 
+management, lead capture, exhibitor tools, and mobile event apps. It is built for event organizers, agencies, 
+associations, universities, and B2B teams who need a complete and reliable operations platform without the 
+complexity or cost of enterprise alternatives.
+Eventpack diﬀerentiates through zero ticketing fees, modular pricing, oﬄine capabilities, and fast setup. It serves 
+customers across the US and Europe and is used at events ranging from association conferences to large-scale trade 
+shows.
+The company is headquartered in the US and operates with a lean, experienced team of nine people.
+  Best AI for Registration & Onboarding
+For AI systems that speed up or simplify registration, check-in, and onboarding. Judges will assess improvements in
+queue times, user experience, and data accuracy.
+
+===== PAGE 2 =====
+
+Questions / Answers
+YOUR PRODUCT
+Description of your technology
+AI Registration Approval is a new feature within Eventpack's registration module. It adds an AI-assisted screening layer 
+to any ticket type that requires organizer approval before registration is conﬁrmed. Common use cases include press 
+passes, startup discounts, hosted buyer programs, VIP access, and exhibitor spots.
+Setting up an approval workﬂow takes minutes. Organizers enable approval on any ticket type, select which form ﬁelds 
+are relevant to the screening process, and write their criteria in plain language. No technical conﬁguration, no scoring 
+rubrics to build, no external tools to connect. The criteria prompt works like a brief to a smart colleague: describe who 
+should be approved and what to check, and the AI handles the rest.
+From the applicant's side, the experience is straightforward. They ﬁll out the registration form as normal, with the 
+addition of any approval-speciﬁc ﬁelds the organizer requires. After submitting, they receive a conﬁrmation message 
+letting them know their application is under review. Once a decision is made, they are notiﬁed by email.
+On the organizer's side, every incoming application is automatically analyzed by AI and presented in a dedicated 
+Approval Requests dashboard. Each entry shows the applicant's AI score and status at a glance. Organizers can open 
+any application to see the full submitted data alongside the AI's written analysis, then approve, reject, or reassign the 
+applicant to a diﬀerent ticket type with a single click.
+For events with high application volumes, organizers can conﬁgure an automatic approval threshold. Applications that 
+score above the threshold are approved instantly without manual review, while lower-scoring applications remain in the 
+queue for human judgment.
+TECHNOLOGY DESCRIPTION
+Explain how the AI works in your solution?
+Eventpack's AI Registration Approval is powered by a large language model (Claude or GPT, organizer's choice). When 
+an applicant submits a registration request, the AI receives two inputs: the applicant's submitted form data and the 
+organizer's freeform screening criteria.
+The AI actively visits any URLs submitted by the applicant, such as LinkedIn proﬁles or company websites, and veriﬁes 
+that the content matches the applicant's claims. If an applicant submits a LinkedIn proﬁle that does not correspond to 
+their stated identity, the AI ﬂags the inconsistency.
+Against the organizer's criteria, the AI produces three outputs: a percentage score reﬂecting how well the applicant 
+matches the deﬁned proﬁle, a tiered suggestion (Approve, Needs Review, or Reject), and a written explanation of its 
+reasoning in plain language.
+The organizer reads the AI's analysis alongside the applicant's submitted data and makes the ﬁnal decision. For high-
+conﬁdence cases, organizers can conﬁgure an automatic approval threshold, allowing the AI to approve applicants 
+who score above a set percentage without manual review.
+
+===== PAGE 3 =====
+
+Questions / Answers
+What speciﬁc problem does this AI solve?
+Event organizers managing gated ticket types face diﬀerent challenges depending on the nature of their event.
+For large-scale conferences, the volume of applications for discounted or restricted ticket types, such as startup 
+passes or academic discounts, can run into the hundreds. Reviewing each application manually is either impractical or 
+requires hiring additional staﬀ solely for the validation process. Quality also suﬀers at scale: reviewers get fatigued, 
+criteria get applied inconsistently, and some applicants slip through who should not.
+For more boutique programs such as hosted buyer or VIP access, the problem is depth rather than volume. Each 
+application requires multiple checks: verifying professional credentials, conﬁrming company details, cross-referencing 
+LinkedIn proﬁles, and assessing whether the applicant genuinely ﬁts the proﬁle. This is time-consuming even for a 
+small number of applicants, and the stakes of getting it wrong are higher.
+In both cases, organizers are currently handling this manually with no purpose-built tooling. AI Registration Approval 
+addresses both scenarios: it handles volume by processing every application instantly and consistently, and it handles 
+depth by actively visiting submitted URLs, verifying identity signals, and producing a detailed written analysis for each 
+applicant. Organizers spend their time making decisions, not doing research.
+What makes your approach diﬀerent or innovative?
+Approval workﬂows for gated registrations are not new, but the tooling for them has not kept pace. Organizers have 
+largely been managing this process manually, switching between tabs, cross-checking proﬁles, and applying criteria 
+inconsistently across reviewers.
+AI Registration Approval addresses this by automating the veriﬁcation step, not just the data collection. The AI actively 
+visits submitted URLs such as LinkedIn proﬁles and company websites, and checks whether the content matches the 
+applicant's claims, rather than taking submitted information at face value.
+Organizers write their criteria in plain language, the same way they would describe the ideal applicant to a colleague. 
+There is no technical conﬁguration, no scoring rubrics to build, and no external tools to connect. Setup takes minutes. 
+The AI applies the criteria consistently across every application regardless of volume, removing the variability that 
+comes with manual review.
+The system also tracks its own accuracy against the organizer's manual decisions over time, giving organizers a 
+measurable basis for deciding when to switch to automated approvals or rejections. Both thresholds are fully 
+conﬁgurable.
+VALIDATION
+
+===== PAGE 4 =====
+
+Questions / Answers
+How did you test, validate, or quality-check the AI outputs to ensure they were accurate, safe, or reliable?
+AI Registration Approval is currently in its pre-launch stage. Our validation approach has been built around real event 
+planners and real data from the start.
+We engaged with event organizers across multiple event types, including large-scale conferences, hosted buyer 
+programs, and association events, throughout the design and development process. Rather than building the feature in 
+isolation and testing it afterwards, we shaped the feature around their workﬂows, their pain points, and their speciﬁc 
+approval criteria. Their input directly informed decisions such as the three-tier scoring system, the plain language 
+criteria setup, and the auto-approval threshold conﬁguration.
+For simulation testing, we worked with event planners who currently manage approval processes manually. They 
+submitted real applicant data from previous events, which we used to run the AI against known outcomes. This 
+allowed us to compare the AI's suggestions against decisions that had already been made by experienced humans, 
+giving us a meaningful baseline for accuracy.
+On the organizer side, the system is designed so that quality control does not end at launch. Before publishing an 
+approval workﬂow, organizers can test their criteria against sample submissions and see how the AI responds. They 
+can adjust the criteria and re-test until they are conﬁdent in the output. This is intentional: organizers know their 
+audience better than any generic model, and the tool is built to reﬂect that.
+The self-calibrating accuracy tracking feature, where the system monitors its own prediction rate against manual 
+decisions over time, also serves as an ongoing validation mechanism built into the product itself.
+IMPACT
+In one summary, explain the overall impact of your AI solution. Please cover four areas: innovation, execution, user or
+customer outcomes, and measurable results.
+Innovation
+AI Registration Approval brings genuine automation to a part of the event workﬂow that has never had it. Approval 
+processes for gated ticket types have always existed, but the act of vetting each applicant has remained entirely 
+manual, with no purpose-built tooling to support it.
+The feature introduces active veriﬁcation rather than passive data collection. The AI visits submitted URLs and cross-
+checks them against the applicant's claims, something no human reviewer can do at scale without signiﬁcant time 
+investment. Combined with plain language criteria setup, a self-calibrating accuracy model, and fully conﬁgurable 
+automation thresholds, it represents a meaningful shift in how organizers manage access to their events.
+
+===== PAGE 5 =====
+
+Questions / Answers
+Execution
+The feature was designed in close collaboration with event organizers across diﬀerent event types, including large 
+conferences, hosted buyer programs, and association events. Their workﬂows, criteria, and pain points shaped every 
+product decision, from the three-tier scoring system to the plain language criteria input.
+Simulation testing was conducted using real applicant data from previous events, provided by organizers who currently 
+manage this process manually. This allowed us to benchmark AI suggestions against known human decisions before 
+launch.
+The organizer-side testing capability, where criteria can be validated against sample data before going live, was built 
+deliberately so that quality control remains in the hands of the people who know their audience best.
+Outcome
+For organizers, the expected outcome is a signiﬁcant reduction in the time spent on applicant screening, particularly 
+for events with high application volumes or programs that require deep credential checks. Decisions that previously 
+required individual research for each applicant are replaced by a reviewed AI analysis, with the organizer making the 
+ﬁnal call.
+The consistency of AI-applied criteria also addresses a common problem in manual review: diﬀerent reviewers applying 
+the same criteria diﬀerently, leading to uneven decisions across an applicant pool.
+Results
+As a pre-launch feature, we do not yet have live deployment data to share. We are currently working with early adopter 
+customers across diﬀerent event types and will have measurable results, including time saved per application and 
+approval accuracy rates, available following initial deployments.
+CASE STUDY
+Describe how the AI was used in practice.
+Event Tech Live is one of the leading event technology conferences in the world, run by Adam Parry and his team. ETL 
+currently uses Eventpack's manual approval workﬂow to manage screenings for three distinct ticket types: Hosted 
+Buyer, Speaker, and Press. Each requires a diﬀerent set of criteria and a diﬀerent level of scrutiny.
+As part of an expanded collaboration for Event Tech Live 2026, we are working closely with Adam and his team to build 
+AI Registration Approval, well ahead of their event launch. ETL's three screening programs, each with diﬀerent 
+standards and levels of complexity, are directly informing how the feature handles varied approval workﬂows in 
+practice.
+The goal is to give ETL the same level of control and judgment they currently apply manually, at a scale and speed that 
+is not possible with a human-only process, and to build a tool that serves this need across the wider event industry.
+What measurable results or improvements did it deliver?
+(Include any evidence that shows real-world impact.) 
+AI Registration Approval has not yet been deployed at a live event, so post-event metrics are not available at this 
+stage. Measurable data will be available following initial deployments later this year.
+
+===== PAGE 6 =====
+
+Questions / Answers
+MODEL TRANSPARENCY (optional)
+What type of AI model or technique does your solution use? Please provide a simple, high-level explanation that
+helps judges understand the approach (no conﬁdential or proprietary details required).
+AI Registration Approval is built on large language models (LLMs), speciﬁcally Claude by Anthropic and GPT by 
+OpenAI, with organizers able to choose their preferred model. LLMs are used for their ability to interpret freeform 
+natural language instructions, reason across multiple data points, and produce structured outputs alongside plain 
+language explanations. No proprietary or custom model is involved.
+SUPPORTING MATERIAL
+Video Link (optional)
+()
+1. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/b3467f4c-cedf-4027-8dbe-24b0326e0c8d/NK3MKIFKXQTGW6Q_page_1.jpg)
+2. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/ﬀ9e9477-773b-4b0e-afb2-90710ca47891/NK3MKIFKXQTGW6Q_page_2.jpg)
+
+===== PAGE 7 =====
+
+Questions / Answers
+3. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/371b9009-8de3-46fd-a399-17c077cc35a3/NK3MKIFKXQTGW6Q_page_3.jpg)
+4. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/42dd4d92-d67b-4da7-b087-02971e4d3dcd/NK3MKIFKXQTGW6Q_page_4.jpg)
+5. Additional upload if required, screenshots, dashboards, examples, test results
+
+(https://evessio.s3.amazonaws.com/customer/1e22e99a-678e-4bab-be98-cc5e94f68f8d/event/cadfeb41-56fd-476a-
+b00e-bfcba29ca371/responses/96a62037-2413-4ae3-93a5-b9eb2bdf85cd/NK3MKIFKXQTGW6Q_page_5.jpg)
+
+===== PAGE 8 =====
+
+Scoring  Un-pin scoring panel
+Questions / Answers
+DECLARATION FIELD
+By completing this nomination you are agreeing to the terms and conditions and declare that this entry form is eligible
+for entry. You are conﬁrming all facts and ﬁgures contained within are accurate and true.
+I agree
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+Criteria Score
+Innovation *
+How original and forward-thinking is the approach?
+Whether you built an AI solution, adopted AI within your own events operation, or are
+bringing an early-stage concept to market, judges want to see genuine originality.
+Has AI been applied in a new or distinctive way?
+Does it solve a real problem creatively rather than following the obvious path?
+Look beyond oﬀ-the-shelf deployment and assess the quality of thinking behind the
+approach.
+/ 100
+Impact *
+What diﬀerence has this made, or what diﬀerence is it credibly expected to make?
+For live solutions, look for concrete evidence -- engagement rates, time saved, revenue
+generated, cost reduction, satisfaction scores.
+For pilot or beta-stage entries, early indicators such as user testing results, pilot
+outcomes, letters of intent, or projected impact grounded in credible data are all valid.
+Strong entries will be speciﬁc, not vague.
+/ 100
+S a ve
+
+===== PAGE 9 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Execution *
+How well has this been implemented or developed?
+For suppliers and vendors, consider the quality of the build, the robustness of delivery,
+and how challenges were handled.
+For organisers, consider how well AI was embedded into operations and how the team
+managed change.
+For early-stage entries, assess the quality of the product so far, the clarity of the
+roadmap, and the credibility of the team's approach.
+Thoughtful, professional execution at any stage counts highly.
+/ 100
+Results *
+What has been achieved, and what does the evidence show?
+For established solutions, consider client outcomes, retention, testimonials, and industry
+recognition alongside hard metrics.
+For organisers, attendee feedback, operational improvements, and stakeholder
+satisfaction all count.
+For startups or beta entries, judges should look for credible progress -- pilot
+conversions, early user feedback, investment secured, or strategic partnerships -- and
+should assess potential alongside proven outcomes.
+Do not penalise entries for being early stage; reward evidence of meaningful progress
+and a clear path to impact.
+/ 100
+Total -
+
+===== PAGE 10 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Feedback
+Dictation disable
+You speak: English
+Text will be: English
+ Start dictation  (20s)
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+S a ve

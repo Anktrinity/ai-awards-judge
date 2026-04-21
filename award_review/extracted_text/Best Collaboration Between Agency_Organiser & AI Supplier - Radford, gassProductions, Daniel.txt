@@ -1,0 +1,543 @@
+
+
+===== PAGE 1 =====
+
+ Radford, gassProductions, Daniel  QPSKBBWY9K98TFI
+Event Technology Awards: AI Edition
+Questions / Answers
+ENTRANT DETAILS
+First Name
+Daniel
+Last Name
+Radford
+Email
+dan@gassproductions.co.uk
+Contact Number
+07792527587
+COMPANY INFORMATION
+Company / Organisation Name
+gassProductions
+Product Name (optional)
+AI-Assisted Multi-Camera Live Production
+  Best Collaboration Between Agency/Organiser & AI Supplier
+Recognising partnerships that demonstrate eﬀective real-world application of AI with clear, measurable outcomes.
+
+===== PAGE 2 =====
+
+Questions / Answers
+Company proﬁle
+gassProductions is a specialist multi-camera production and live streaming company founded in 2006, based in Kent, 
+UK. We deliver vision mixing, camera operation, and live streaming services for corporate events, product launches, 
+conferences, and creative brand activations across the UK and internationally.
+Our client roster includes some of the world's most recognised technology and consumer brands — Sony, Adobe, 
+Google, AWS, Microsoft, BMW, and Goldwell among them. We're trusted to deliver technically demanding, high-proﬁle 
+productions where failure isn't an option.
+In 2024, gassProductions became one of the ﬁrst UK production companies to adopt Sony's BRC-AM7 AI PTZ camera 
+system for live event work. Rather than simply deploying new equipment, we developed a complete production 
+methodology around AI-assisted camera operation — separating mechanical tracking from creative decision-making. 
+This approach has become our standard operating model for corporate events.
+Our work with the BRC-AM7 led to a direct feedback relationship with Sony's R&D team, contributing to four ﬁrmware 
+improvements shipped in the V3.0 update announced at ISE 2026. Sony subsequently commissioned gassProductions 
+to produce the oﬃcial global case study ﬁlm documenting our methodology and results.
+We're a focused team combining deep technical expertise with creative storytelling.
+YOUR PRODUCT
+
+===== PAGE 3 =====
+
+Questions / Answers
+Description of your technology
+This entry documents the collaboration between gassProductions and Vibration Production — a partnership that 
+demonstrates how specialist AI expertise can be embedded within a broader event production to deliver results neither 
+party could achieve alone.
+Vibration Production is an established professional AV company that manages end-to-end event delivery for corporate 
+clients. For Goldwell's Celebration of Color — a ﬂagship runway show at Exhibition White City, London — they needed 
+broadcast-quality multi-camera coverage with minimal crew footprint and compact physical presence. Rather than 
+hiring a traditional ﬁve-person camera crew, they engaged gassProductions speciﬁcally for our AI camera methodology 
+and expertise.
+This wasn't equipment hire. It was an embedded specialist partnership where gassProductions integrated as 
+Vibration's video production team, bringing methodology, expertise, and technology as a single turnkey package. 
+Vibration contributed event management expertise, client relationship management, and overall AV production — while 
+gassProductions provided AI-assisted multi-camera coverage using ﬁve Sony BRC-AM7 cameras operated by two 
+crew members.
+The results justiﬁed the collaboration approach. Two operators delivered broadcast-grade ﬁve-camera coverage — a 
+60% crew reduction — with quality independently veriﬁed by Vibration Production's Director, Niall Spierin: "They setup 
+with a fraction of the footprint and crew we'd normally expect — without compromising broadcast quality."
+The partnership model addresses a real industry challenge. AI camera technology is advancing rapidly, but most AV 
+companies lack the specialist knowledge, operational experience, or developed methodology to deploy it eﬀectively. 
+Buying the cameras isn't enough — you need to understand how to conﬁgure AI tracking parameters for speciﬁc event 
+scenarios, how to plan camera positions for optimal AI performance, and how to build a production workﬂow that lets 
+operators focus on creativity while AI handles mechanics.
+By engaging gassProductions as an embedded specialist partner, Vibration Production gained access to this entire 
+capability stack without needing to develop it in-house. They could oﬀer their client (Goldwell) a level of production 
+sophistication that would otherwise be unavailable — all while maintaining their existing client relationship and event 
+management responsibilities.
+The collaboration was so successful that Sony Professional Europe commissioned gassProductions to produce the 
+oﬃcial global case study ﬁlm documenting the methodology and results. Our production feedback also contributed to 
+four ﬁrmware improvements in Sony's V3.0 update announced at ISE 2026.
+Spierin captured the partnership value: "They don't just turn up with cameras — they arrive with solutions. That's why 
+we trust them on technically demanding live shows."
+This model is replicable. Any AV agency can engage a specialist AI camera partner for speciﬁc events, gaining 
+broadcast capability without capital investment in equipment or training. It's a scalable industry model that accelerates 
+AI adoption by removing the knowledge barrier that currently limits it.
+TECHNOLOGY DESCRIPTION
+
+===== PAGE 4 =====
+
+Questions / Answers
+Explain how the AI works in your solution?
+The Sony BRC-AM7 uses on-device AI powered by Sony's BIONZ XR processor — the same chip found in their 
+ﬂagship cinema and mirrorless cameras. All AI inference runs locally on the camera hardware with zero cloud 
+dependency, zero data transmission, and zero latency.
+The AI engine performs real-time skeletal tracking, head detection, face recognition (with priority subject registration), 
+and clothing pattern analysis to maintain consistent framing of moving subjects. It can simultaneously track up to 8 
+individuals across more than 150 composition presets, automatically adjusting pan, tilt, and zoom to keep subjects 
+framed according to operator-deﬁned parameters.
+The camera features a 1.0-inch Exmor RS CMOS sensor with 20x optical zoom (24–480mm equivalent) and up to 40x 
+Clear Image Zoom in Full HD — delivering broadcast-quality imagery that matches or exceeds traditional manned 
+camera positions.
+Critically, the AI handles the mechanical burden of tracking — the repetitive pan/tilt/zoom adjustments that traditionally 
+consume approximately 80% of a camera operator's attention. Manual operator override is available at any time, 
+allowing instant human intervention for creative decisions or unexpected scenarios. This is not fully autonomous ﬁlming 
+— it's AI-assisted production where the technology handles mechanics and humans retain complete creative control.
+What speciﬁc problem does this AI solve?
+AV agencies face a growing challenge: clients expect broadcast-quality multi-camera coverage, but delivering it 
+traditionally requires large crews, signiﬁcant ﬂoor space, and budgets many events can't support. At the same time, AI 
+camera technology is advancing — but most agencies lack the specialist knowledge and operational methodology to 
+deploy it eﬀectively.
+Simply purchasing AI cameras doesn't solve the problem. Without developed methodology and understanding of how 
+to conﬁgure AI tracking for speciﬁc scenarios, agencies risk deploying expensive technology that underperforms — or 
+fails during live shows.
+Vibration Production faced this challenge for Goldwell's Celebration of Color. They needed broadcast-quality coverage 
+with minimal crew and compact footprint, but lacked in-house AI camera expertise. Hiring a traditional ﬁve-person 
+crew would solve the quality problem but not the crew or footprint constraints.
+Our collaboration solved this by providing methodology, expertise, and technology as a single embedded package. 
+Vibration gained broadcast capability without developing in-house AI expertise. gassProductions gained a commercial 
+deployment validating our methodology. The client received production quality exceeding expectations at lower cost.
+This model removes the knowledge barrier that currently limits AI adoption across the events industry.
+
+===== PAGE 5 =====
+
+Questions / Answers
+What makes your approach diﬀerent or innovative?
+This partnership removed the single biggest barrier to AI adoption in live events: the knowledge gap. Vibration 
+Production accessed proven AI methodology overnight, without equipment investment, staﬀ training, or deployment 
+risk.
+Most AI adoption follows a costly, high-risk path: companies purchase cameras, hire consultants, run pilots, iterate 
+through failures on their own events. Our embedded specialist model eliminates this. By engaging gassProductions as 
+a turnkey AI partner, Vibration Production accessed methodology proven through multiple live deployments, conﬁgured 
+for immediate use, and backed by a team with operational expertise.
+This partnership is fundamentally diﬀerent from equipment supply or contractor engagement. It combines 
+complementary expertise for outcomes neither party could achieve independently. Vibration brought event 
+management knowledge, client relationships, and venue logistics. gassProductions brought AI methodology, 
+production expertise, and operational experience. The result: broadcast-quality production that elevated Vibration's 
+service oﬀering without diverting them from core business.
+The collaboration advanced technology and industry. Our operational feedback shaped four Sony ﬁrmware 
+improvements. Sony commissioned the global case study. At ISE 2026, the partnership was featured as a model for 
+industry-wide AI adoption. We demonstrated a scalable partnership model that removes adoption barriers for AV 
+agencies worldwide.
+VALIDATION
+
+===== PAGE 6 =====
+
+Questions / Answers
+How did you test, validate, or quality-check the AI outputs to ensure they were accurate, safe, or reliable?
+The collaboration was validated through live deployment at one of the most demanding event types for AI-assisted 
+production: a fast-paced runway show with zero margin for error.
+Goldwell's Celebration of Color, held at Exhibition White City, London, presented every challenge that tests both a 
+production methodology and a partnership model: rapid performer movement, dramatic lighting changes (critical for a 
+hair colour brand), multiple performers in close proximity, and an audience of industry professionals expecting 
+broadcast-quality results. If the collaboration failed — whether through technology issues, communication 
+breakdowns, or methodology problems — it would fail visibly and consequentially.
+The partnership structure itself was part of the validation. Vibration Production and gassProductions operated as 
+complementary specialist teams: Vibration managed overall event AV, client communications, and venue logistics, 
+while gassProductions managed the AI camera deployment, vision mixing, and live production. This required clear role 
+deﬁnition, shared planning, and trust — all elements of a successful collaboration that were tested under real pressure.
+Joint pre-production planning covered camera positions optimised for AI tracking performance, framing parameters for 
+each camera, contingency plans for AI tracking edge cases, and integration points between the camera production 
+and Vibration's wider AV setup (audio feeds, lighting coordination, power and data routing).
+During the live show, the collaboration performed seamlessly. The AI operated at approximately 90% autonomy. 
+gassProductions' two operators managed all ﬁve cameras' creative output while Vibration's team managed the broader 
+event production. There were no communication breakdowns, no role confusion, and no quality compromises.
+The strongest validation comes from Vibration Production themselves. Director Niall Spierin provided two statements 
+that directly assess the collaboration: "They setup with a fraction of the footprint and crew we'd normally expect — 
+without compromising broadcast quality" — conﬁrming that the embedded specialist model delivered on its core 
+promise of equivalent quality with reduced resources. And: "They don't just turn up with cameras — they arrive with 
+solutions. That's why we trust them on technically demanding live shows" — conﬁrming that the partnership value 
+extends beyond equipment to encompass methodology and expertise.
+The word "trust" in Spierin's statement is particularly signiﬁcant for a collaboration entry. Trust between partner 
+organisations is earned through reliable delivery, and his willingness to publicly endorse the partnership indicates 
+conﬁdence in its repeatability.
+Sony Professional Europe added manufacturer-level validation by commissioning gassProductions to produce the 
+oﬃcial global case study ﬁlm. Sony's interest wasn't just in the technology — it was in how the collaboration model 
+demonstrated their AI cameras being deployed eﬀectively in a real event production context. The partnership between 
+a specialist AI production company and an established AV agency represents exactly the adoption model Sony wants 
+to see replicated globally.
+The case study was showcased at ISE 2026, the world's largest professional AV trade show, alongside the V3.0 
+ﬁrmware announcement. Our production feedback from the Goldwell collaboration directly informed four ﬁrmware 
+improvements — demonstrating that the partnership generated value not just for the two companies involved but for 
+the technology platform's entire global user base.
+
+===== PAGE 7 =====
+
+Questions / Answers
+IMPACT
+In one summary, explain the overall impact of your AI solution. Please cover four areas: innovation, execution, user or
+customer outcomes, and measurable results.
+
+===== PAGE 8 =====
+
+Questions / Answers
+Innovation
+The innovation is the partnership model itself — an embedded specialist approach to AI deployment that solves the 
+adoption barrier most AV agencies face.
+The events industry is at an inﬂection point with AI technology. Camera systems like the Sony BRC-AM7 oﬀer genuine 
+improvements, but adoption remains limited because the technology requires specialist knowledge to deploy 
+eﬀectively. Most AV agencies lack in-house AI camera expertise, and learning curves — through trial and error on live 
+events — are prohibitively risky.
+Our collaboration with Vibration Production pioneered a solution: the embedded specialist model. Rather than Vibration 
+purchasing AI cameras and developing methodology independently, they engaged gassProductions as a turnkey AI 
+video partner. We integrated as their video production team, bringing methodology, operational expertise, and 
+technology as one package.
+This model eliminates the knowledge barrier without requiring agencies to build capability. Vibration Production gained 
+immediate access to a proven, operational AI methodology developed, tested, reﬁned, and validated through live 
+deployments. They didn't need to buy equipment, train staﬀ, or risk unfamiliar technology on high-stakes events.
+The innovation extends to partnership structure. This wasn't a subcontractor arrangement where gassProductions 
+simply provided cameras and operators. It was a genuine partnership where each party contributed complementary 
+expertise: Vibration's event management knowledge, client relationships, and venue logistics combined with 
+gassProductions' AI methodology, production expertise, and technology. The result exceeded what either party could 
+achieve independently.
+For Vibration Production, the collaboration provided competitive advantage — they could oﬀer clients a production 
+sophistication few AV agencies deliver. Five-camera broadcast coverage with two crew, compact footprint, and AI-
+assisted quality. Without partnership, this would require either much larger crew budgets or in-house AI programs.
+For gassProductions, the collaboration provided a commercial model scaling our methodology beyond events we 
+manage directly. By partnering with established agencies, we deploy AI-assisted production across wider event ranges 
+— reaching clients and sectors independently inaccessible.
+The collaboration generated innovation beyond the two companies. Our operational feedback from Goldwell 
+contributed to four Sony ﬁrmware improvements in the V3.0 update — beneﬁts every BRC-AM7 operator worldwide. 
+The oﬃcial case study ﬁlm Sony commissioned documents the partnership model, providing a blueprint for similar 
+partnerships globally.
+At ISE 2026, the collaboration was showcased alongside the V3.0 announcement — demonstrating to the global AV 
+industry that specialist partnerships can accelerate AI adoption more eﬀectively than companies trying to develop all 
+capabilities in-house.
+The model is inherently replicable and scalable. Any AV agency can engage a specialist AI camera partner for events 
+requiring broadcast-quality coverage. The partnership requires no permanent staﬃng changes or capital investment — 
+it's a project-based collaboration scaling based on event requirements.
+
+===== PAGE 9 =====
+
+Questions / Answers
+Execution
+Joint planning between gassProductions and Vibration Production optimised every element of the AI deployment — 
+from camera positions and tracking parameters to power routing and audience sightlines — demonstrating the value of 
+complementary expertise.
+The collaboration was executed at Goldwell's Celebration of Color — a ﬂagship runway show at Exhibition White City, 
+London — where Vibration Production engaged gassProductions as their specialist AI partner.
+The partnership began with joint pre-production planning. Vibration Production shared their event brief, venue plans, 
+and requirements. gassProductions contributed AI camera deployment expertise — recommending camera positions, 
+deﬁning framing parameters, and planning the workﬂow around the two-operator AI-assisted model.
+This planning was genuinely collaborative. Vibration's venue knowledge informed practical decisions about camera 
+placement (power, cable runs, sightlines), while gassProductions' AI expertise determined technical parameters 
+(tracking distances, lens selection, AI conﬁguration for runway movement patterns). Neither party could have optimised 
+the deployment independently.
+Camera positions provided comprehensive coverage while maximising tracking reliability: clear sightlines along the 
+catwalk, appropriate distances for the BRC-AM7's zoom, and positions allowing AI to track performers through the 
+complete walk-turn-return sequence. Priority subject registration was conﬁgured for featured models.
+On event day, the complementary expertise was evident. Vibration managed overall event AV — audio, lighting, venue 
+logistics, and client communications. gassProductions deployed and operated ﬁve Sony BRC-AM7 AI PTZ cameras 
+with two crew members, managing vision mixing, shading, and ISO recording.
+Physical integration was seamless. Compact PTZ positions sat within Vibration's infrastructure without conﬂicts or 
+requiring additional space — a practical beneﬁt demonstrating the AI deployment complementing existing AV setups 
+rather than competing for resources.
+During the live show, the AI operated at approximately 90% autonomy. Operators focused on creative management of 
+all ﬁve feeds — composition, shot selection, vision mixing, and real-time shading for colour consistency (critical for a 
+hair colour brand). Production responsibilities separated cleanly and eﬀectively.
+Post-event, we conducted joint review sessions. Vibration provided feedback on AI deployment integration with their 
+wider production. gassProductions documented technical performance — tracking accuracy, edge cases, and 
+environmental factors. This collaborative review strengthened the partnership.
+gassProductions then produced the oﬃcial Sony case study ﬁlm commissioned by Sony Professional Europe, 
+documenting the collaboration model with behind-the-scenes footage, methodology explanation, and interviews 
+including Vibration's Director Niall Spierin's endorsement.
+Technical reviews formed structured feedback delivered to Sony's R&D team, directly informing four V3.0 ﬁrmware 
+improvements announced at ISE 2026. The case study was showcased at ISE — demonstrating the collaboration's 
+impact on the industry's most prominent stage.
+
+===== PAGE 10 =====
+
+Questions / Answers
+Outcome
+The collaboration proved that specialist AI partnerships deliver faster, lower-risk AI adoption than any company 
+attempting to build capability alone.
+The partnership delivered outcomes across four levels: event delivery, partnership model validation, technology 
+advancement, and industry inﬂuence.
+At the event level, the collaboration was unambiguous success. Two operators delivered broadcast-grade ﬁve-camera 
+coverage of a demanding runway show — Goldwell's Celebration of Color — with quality that Vibration Production's 
+Director conﬁrmed met broadcast standards. The client received coverage exceeding what traditional deployment 
+would typically deliver.
+The reduced physical footprint provided practical beneﬁts: compact PTZ positions freed ﬂoor space that Vibration 
+used for wider AV needs, and increased audience seating capacity improved the event experience.
+At the partnership model level, the collaboration validated the embedded specialist approach. Vibration Production 
+gained AI-assisted broadcast production capability without usual barriers: no capital investment, no training, no 
+methodology development. They engaged a specialist partner with proven methodology and received predictable, 
+professional results.
+Spierin's statements validate this model. "They don't just turn up with cameras — they arrive with solutions" conﬁrms 
+the partnership delivers methodology, not just equipment. "That's why we trust them on technically demanding live 
+shows" conﬁrms repeatable trust for future engagements.
+The model is now replicable. AV agencies can engage specialist AI camera partners for events, gaining broadcast 
+capability without permanent overhead. This project-based structure scales naturally.
+At the technology level, the collaboration advanced the AI camera platform. Operational data from Goldwell was 
+systematically documented and shared with Sony's R&D team. Four speciﬁc ﬁrmware improvements in V3.0 — optical 
+image stabilisation for long-lens tracking, Tracking Range Zone overlays, PTZ Speed Adjustment during auto-framing, 
+and improved control visibility — are directly traceable to this feedback.
+This demonstrates that collaborative deployments between specialist AI companies and AV agencies generate 
+technology insights beneﬁting the entire industry. Real-world events present challenges laboratory testing cannot 
+replicate, and partnerships deploying AI in demanding environments drive platform improvement.
+At the industry level, Sony's decision to commission the global case study ﬁlm — and showcase it at ISE 2026 — 
+established the collaboration as a reference model for AI adoption in events. The ﬁlm documents the partnership 
+structure, providing a blueprint the global AV industry can learn from.
+The ISE 2026 showcase connected the collaboration to the V3.0 ﬁrmware announcement, demonstrating that 
+specialist partnerships accelerate both AI adoption and technology development simultaneously.
+This collaboration proves AI adoption in events doesn't require every company becoming an AI expert. It requires the 
+right partnerships and willingness to combine complementary expertise for outcomes neither party could achieve 
+alone.
+
+===== PAGE 11 =====
+
+Questions / Answers
+Results
+The collaboration between gassProductions and Vibration Production delivered measurable results.
+Crew eﬃciency: 60% reduction in camera crew requirements. Two operators delivered broadcast-grade ﬁve-camera 
+coverage that would traditionally require ﬁve operators. This was achieved through the collaborative model — Vibration 
+providing event management and gassProductions providing specialist AI methodology — rather than either party 
+attempting everything independently.
+AI autonomy: Approximately 90% autonomous tracking during the live Goldwell's Celebration of Color runway show. 
+The AI tracked performers through sustained walks, directional changes, lighting transitions, and close-proximity 
+moments. Human intervention was approximately 10%, predominantly creative rather than corrective.
+Physical footprint: Compact PTZ cameras replaced manned camera platforms, freeing ﬂoor space for Vibration's wider 
+AV requirements and increasing audience seating capacity. The AI deployment complemented existing infrastructure 
+rather than competing with it.
+Quality veriﬁcation: Broadcast quality independently conﬁrmed by Vibration Production — the AV partner who engaged 
+gassProductions. Director Niall Spierin: "They setup with a fraction of the footprint and crew we'd normally expect — 
+without compromising broadcast quality." This external validation is particularly signiﬁcant for collaboration.
+Partnership endorsement: Spierin's statement — "They don't just turn up with cameras — they arrive with solutions. 
+That's why we trust them on technically demanding live shows" — validates the collaboration model. The word "trust" 
+conﬁrms this is a repeatable partnership, not an experiment.
+Sony case study commission: Sony Professional Europe commissioned gassProductions to produce the oﬃcial global 
+case study ﬁlm documenting the collaboration. The ﬁlm features the partnership model — how specialist AI expertise 
+was embedded within broader event production. It is distributed through Sony Professional's worldwide channels.
+Firmware improvements: Four BRC-AM7 V3.0 ﬁrmware improvements directly attributable to operational feedback 
+from this deployment: optical image stabilisation for long-lens tracking, Tracking Range Zone overlays for 9:16 
+monitoring, PTZ Speed Adjustment during auto-framing, and improved interface visibility. Announced at ISE 2026, 
+beneﬁting all operators globally.
+ISE 2026 showcase: The collaboration was featured at the world's largest professional AV trade show, positioning the 
+partnership as a reference for AI adoption across the global events industry.
+Industry model: The embedded specialist partnership is now replicable and scalable. Any AV agency can engage 
+specialist AI camera partners for events requiring broadcast-quality coverage — no capital investment, no training 
+program, no technology risk. This removes the primary adoption barrier for most AV companies.
+Dan Radford on Sony's platform: "The AI tracking doesn't replace us — it empowers us to be more creative" — 
+reﬂecting the collaboration's ethos: AI amplifying human capability within trusted partnerships.
+Combined value: The collaboration generated measurable value at event level (quality, eﬃciency), partnership level 
+(trust, repeatability), technology level (ﬁrmware improvements), and industry level (case study, ISE showcase). Few AI 
+deployments in events can demonstrate impact across all four levels simultaneously.
+
+===== PAGE 12 =====
+
+Questions / Answers
+CASE STUDY
+
+===== PAGE 13 =====
+
+Questions / Answers
+Describe how the AI was used in practice.
+The case study documents the collaboration between gassProductions and Vibration Production for Goldwell's 
+Celebration of Color — a ﬂagship runway show held at Exhibition White City, London.
+Vibration Production, an established professional AV company, was managing overall event delivery for Goldwell. For 
+the multi-camera video production element, they needed broadcast-quality coverage with a minimal crew footprint and 
+compact physical presence — constraints that a traditional ﬁve-operator camera crew couldn't meet.
+Vibration engaged gassProductions speciﬁcally for our AI camera methodology and production expertise. This was a 
+deliberate choice to bring in a specialist partner rather than attempt an AI deployment with general AV staﬀ. The 
+engagement model was embedded partnership: gassProductions integrated as Vibration's video production team for 
+the event, responsible for all camera deployment, operation, vision mixing, and live production.
+Joint pre-production planning was a key element of the collaboration. Both teams contributed their respective 
+expertise: Vibration shared venue plans, event schedules, and client requirements. gassProductions recommended 
+camera positions optimised for AI tracking, deﬁned framing parameters for each camera's ﬁeld of view, and planned 
+the complete production workﬂow around the two-operator AI-assisted model. Camera positions were also 
+coordinated with Vibration's wider AV setup — lighting positions, audio zones, and power distribution.
+Five Sony BRC-AM7 AI PTZ cameras were deployed with two gassProductions crew members. During the live runway 
+show, the AI tracked performers through every phase of the sequence: entrance, forward walk under changing lighting, 
+pause and turn at the runway end, return walk, and exit. The system operated at approximately 90% autonomy, with 
+our operators focusing on creative composition, shot variety, and vision mixing across all ﬁve feeds.
+The collaboration structure was tested under demanding conditions. The runway show combined rapid performer 
+movement, dramatic lighting transitions (critical for a hair colour brand), multiple performers in close proximity, and 
+zero tolerance for production errors. Both teams needed to execute their respective responsibilities ﬂawlessly and in 
+coordination — there was no room for communication breakdowns or role confusion.
+Vibration Production's wider AV team managed audio, lighting coordination, venue logistics, and client 
+communications while gassProductions managed the complete video production. The separation of responsibilities 
+was clean, the integration points were well-deﬁned, and the execution was seamless.
+Post-event, Vibration's Director Niall Spierin provided the collaboration's deﬁning testimonials: "They setup with a 
+fraction of the footprint and crew we'd normally expect — without compromising broadcast quality" and "They don't 
+just turn up with cameras — they arrive with solutions. That's why we trust them on technically demanding live shows."
+Sony Professional Europe reviewed the collaborative deployment and commissioned gassProductions to produce the 
+oﬃcial global case study ﬁlm. The ﬁlm documents the partnership model — featuring both companies' perspectives, 
+behind-the-scenes collaboration footage, and the production methodology — for distribution through Sony 
+Professional's worldwide channels.
+Technical reviews conducted jointly by both teams post-event captured operational insights that formed structured 
+feedback to Sony's R&D team, contributing to four V3.0 ﬁrmware improvements announced at ISE 2026. The case 
+study was showcased at ISE alongside this announcement.
+
+===== PAGE 14 =====
+
+Questions / Answers
+What measurable results or improvements did it deliver?
+(Include any evidence that shows real-world impact.) 
+The collaboration between gassProductions and Vibration Production at Goldwell's Celebration of Color delivered 
+measurable results.
+Crew reduction: Two gassProductions operators delivered broadcast-grade ﬁve-camera coverage — a 60% reduction 
+from the ﬁve-operator model. Both simultaneously managed vision mixing, camera shading, ISO recording, and 
+creative direction of all ﬁve feeds.
+AI autonomy: Approximately 90% autonomous tracking during the live runway show. The AI successfully maintained 
+framing through sustained walks, 180-degree directional changes, dramatic lighting transitions, and close-proximity 
+crossovers. Human intervention was approximately 10%, predominantly creative rather than corrective.
+Physical footprint: Five compact PTZ cameras replaced ﬁve manned camera positions. This directly freed ﬂoor space 
+for Vibration's wider AV requirements and increased audience seating capacity. The AI deployment complemented 
+existing infrastructure — a key practical beneﬁt of partnership.
+Quality veriﬁcation: Broadcast quality independently conﬁrmed by Vibration Production's Director Niall Spierin — an 
+experienced AV professional who regularly commissions traditional crews — conﬁrmed no compromise: "They setup 
+with a fraction of the footprint and crew we'd normally expect — without compromising broadcast quality."
+Partnership validation: Spierin's endorsement extends beyond quality to partnership model: "They don't just turn up 
+with cameras — they arrive with solutions. That's why we trust them on technically demanding live shows." The use of 
+"trust" conﬁrms an established, repeatable partnership — not a one-oﬀ trial.
+Colour accuracy: Consistent camera shading across all ﬁve feeds ensured accurate colour reproduction. For Goldwell 
+— a professional hair colour brand — this is brand-critical and the collaboration delivered it without additional crew.
+Seamless integration: The embedded partnership worked as designed — clean separation of responsibilities, eﬀective 
+joint planning, and coordinated execution. No communication breakdowns or role confusion.
+Sony case study commission: Sony Professional Europe commissioned the oﬃcial global case study ﬁlm, recognising 
+the collaboration as the most compelling demonstration of their AI technology deployed in partnership. The ﬁlm is 
+distributed through Sony Professional's worldwide channels.
+Firmware improvements: Four BRC-AM7 V3.0 ﬁrmware improvements traceable to operational feedback from this 
+deployment: optical image stabilisation for long-lens tracking, Tracking Range Zone overlays, PTZ Speed Adjustment 
+during auto-framing, and improved interface visibility. Announced at ISE 2026, beneﬁting all operators.
+ISE 2026 showcase: The collaboration featured at the world's largest professional AV trade show — establishing the 
+partnership as an industry reference model for AI adoption through specialist collaboration.
+Replicable model: The embedded specialist partnership demonstrates a scalable model for AV agencies — combining 
+specialist AI methodology with established event management expertise for outcomes neither party could achieve 
+independently.
+
+===== PAGE 15 =====
+
+Questions / Answers
+MODEL TRANSPARENCY (optional)
+What type of AI model or technique does your solution use? Please provide a simple, high-level explanation that
+helps judges understand the approach (no conﬁdential or proprietary details required).
+The AI system used in our production methodology is entirely contained within the Sony BRC-AM7 PTZ camera 
+hardware. There is no external AI platform, cloud processing, or third-party machine learning service involved.
+The core AI engine runs on Sony's BIONZ XR processor — the same chip used in Sony's ﬂagship Alpha mirrorless 
+cameras. This processor handles all inference tasks locally, ensuring zero-latency response and zero data transmission 
+to external servers.
+The AI model performs real-time human pose estimation to identify and track subjects. It analyses body position, 
+movement direction, and spatial relationships to maintain framing as subjects move through the camera's ﬁeld of view. 
+The system uses a combination of body detection (for initial subject acquisition and wide shots) and face detection (for 
+close-up framing reﬁnement). All processing happens on the BIONZ XR chip within the camera body.
+The camera can simultaneously track up to 8 subjects and oﬀers more than 150 composition presets, giving operators 
+granular control over AI framing. These presets deﬁne parameters such as headroom, lead room, subject size, and 
+camera response speed.
+Hardware speciﬁcations relevant to AI performance include: a 1.0-inch Exmor RS CMOS sensor (delivering superior 
+image quality in challenging lighting), 20x optical zoom, up to 40x Clear Image Zoom in Full HD, and 4K/60p recording 
+with simultaneous streaming capability.
+Regarding data privacy: because all AI processing happens on-device, no personal data ever leaves the camera 
+hardware. There is no cloud upload, no external data storage, and no transmission mechanism. When powered oﬀ, all 
+tracking data is discarded. This makes the system GDPR-compliant for live events, as no personal data is processed 
+beyond real-time, in-camera inference.
+The AI operates as an assistive tool, not an autonomous system. At any point, a human operator can override the AI's 
+decisions — adjusting framing, switching subjects, or taking full manual control. Our methodology explicitly preserves 
+human authority: AI handles mechanical tracking while humans make all creative decisions.
+Sony's ﬁrmware development incorporates improvements directly informed by our production feedback. Version 3.0 
+(announced at ISE 2026) includes: optical image stabilisation for long-lens AI tracking, Tracking Range Zone overlays 
+for vertical output monitoring, PTZ Speed Adjustment during auto-framing, and improved interface visibility. This 
+demonstrates an active development cycle between manufacturer and production users.
+SUPPORTING MATERIAL
+
+===== PAGE 16 =====
+
+Questions / Answers
+Video Link (optional)
+Sony - Professional Europe
+B e h in d  th e  le n s : S o n y  B R C -A M 7  c a m e ra s  re v o lu tio n is in g  e v e n t c o v e ra g e
+B e h in d  th e  le n s : S o n y  B R C -A M 7  c a m e ra s  re v o lu tio n is in g  e v e n t c o v e ra g e
+Watch on
+1. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+2. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+3. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+4. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+5. Additional upload if required, screenshots, dashboards, examples, test results
+not provided
+DECLARATION FIELD
+By completing this nomination you are agreeing to the terms and conditions and declare that this entry form is eligible
+for entry. You are conﬁrming all facts and ﬁgures contained within are accurate and true.
+I agree
+
+===== PAGE 17 =====
+
+Scoring  Un-pin scoring panel
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+Criteria Score
+Innovation *
+How original and forward-thinking is the approach?
+Whether you built an AI solution, adopted AI within your own events operation, or are
+bringing an early-stage concept to market, judges want to see genuine originality.
+Has AI been applied in a new or distinctive way?
+Does it solve a real problem creatively rather than following the obvious path?
+Look beyond oﬀ-the-shelf deployment and assess the quality of thinking behind the
+approach.
+/ 100
+Impact *
+What diﬀerence has this made, or what diﬀerence is it credibly expected to make?
+For live solutions, look for concrete evidence -- engagement rates, time saved, revenue
+generated, cost reduction, satisfaction scores.
+For pilot or beta-stage entries, early indicators such as user testing results, pilot
+outcomes, letters of intent, or projected impact grounded in credible data are all valid.
+Strong entries will be speciﬁc, not vague.
+/ 100
+Execution *
+How well has this been implemented or developed?
+For suppliers and vendors, consider the quality of the build, the robustness of delivery,
+and how challenges were handled.
+For organisers, consider how well AI was embedded into operations and how the team
+managed change.
+For early-stage entries, assess the quality of the product so far, the clarity of the
+roadmap, and the credibility of the team's approach.
+Thoughtful, professional execution at any stage counts highly.
+/ 100
+S a ve
+
+===== PAGE 18 =====
+
+Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   
+Criteria Score
+Results *
+What has been achieved, and what does the evidence show?
+For established solutions, consider client outcomes, retention, testimonials, and industry
+recognition alongside hard metrics.
+For organisers, attendee feedback, operational improvements, and stakeholder
+satisfaction all count.
+For startups or beta entries, judges should look for credible progress -- pilot
+conversions, early user feedback, investment secured, or strategic partnerships -- and
+should assess potential alongside proven outcomes.
+Do not penalise entries for being early stage; reward evidence of meaningful progress
+and a clear path to impact.
+/ 100
+Total
+Feedback
+Dictation disable
+You speak: English
+Text will be: English
+ Start dictation  (20s)
+Opt-out Recuse yourself if you have a professional or
+personal conﬂict of interest Scoring is incomplete   Cancel
+-
+S a ve
