@@ -49,7 +49,7 @@ Ready now:
 - hybrid publishing guidance
 
 Still to build for a fuller product:
-- model-backed scoring execution
+- LLM-backed or rules-plus-LLM scoring execution
 - multi-judge reconciliation
 - web UI or hosted API layer
 - CI publishing workflow
@@ -77,6 +77,12 @@ Create a starter run manifest:
 
 ```bash
 ai-awards-judge plan-run --input-dir ./examples/sample_input --output-dir ./outputs
+```
+
+Run the initial scoring engine on sanitized text entries:
+
+```bash
+ai-awards-judge run ./examples/sample_input --output-dir ./outputs
 ```
 
 ## Push to GitHub
@@ -113,12 +119,21 @@ gh repo create ai-awards-judge --public --source=. --remote=origin --push
 
 > Configurable AI-assisted judging system for award entries, shortlist reviews, and category ranking workflows.
 
-## Next build step
+## Current scoring engine
 
-After the repo is live, the next best move is implementing the scoring engine so judges can run:
+The current `run` command is a v0 heuristic scoring engine for sanitized text entries. It:
+
+- parses text entry files
+- assigns rubric scores using evidence and keyword heuristics
+- ranks entries within category
+- writes JSON and markdown outputs
+
+Example:
 
 ```bash
-ai-awards-judge run ./entries --config ./config/rubric.yaml --out ./outputs
+ai-awards-judge run ./examples/sample_input --output-dir ./outputs
 ```
 
-If you want, I can build that next too.
+## Next build step
+
+After this, the strongest upgrade is replacing or augmenting the heuristic engine with model-backed scoring plus multi-judge reconciliation.
