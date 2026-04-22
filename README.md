@@ -149,7 +149,20 @@ ai-awards-judge run ./examples/sample_input --output-dir ./outputs --scoring-mod
 
 ### LLM scoring setup
 
-Set one of these before `--scoring-mode llm` or `auto`:
+LLM scoring is **optional**.
+
+You do **not** need an OpenAI key to use this project in heuristic mode.
+
+If you want model-backed scoring, **you bring your own API key** in your own local environment or deployment. The repo does not include, ship with, or expect the maintainer's personal key.
+
+In practice, that means:
+
+- `heuristic` mode works with no API key
+- `auto` tries LLM scoring if you provide a key, then falls back to heuristics if you do not
+- `llm` mode is for users who explicitly want to connect their own provider key
+- your key stays in your shell, `.env`, secret manager, or hosting platform settings, not in the repository
+
+Set these before `--scoring-mode llm` or `auto`:
 
 ```bash
 export OPENAI_API_KEY=...
@@ -157,6 +170,12 @@ export OPENAI_API_KEY=...
 export AI_AWARDS_JUDGE_MODEL=gpt-4o-mini
 export AI_AWARDS_JUDGE_BASE_URL=https://api.openai.com/v1
 export AI_AWARDS_JUDGE_ID=judge-anca
+```
+
+If you do not want to use any external model API at all, just run:
+
+```bash
+ai-awards-judge run ./examples/sample_input --output-dir ./outputs --scoring-mode heuristic
 ```
 
 ### Multi-judge reconciliation
