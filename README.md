@@ -49,10 +49,9 @@ Ready now:
 - hybrid publishing guidance
 
 Still to build for a fuller product:
-- LLM-backed or rules-plus-LLM scoring execution
-- multi-judge reconciliation
 - web UI or hosted API layer
-- CI publishing workflow
+- hosted persistence or API auth layer
+- more advanced calibration workflows, adjudication queues, and reviewer assignment controls
 
 ## Quick start
 
@@ -121,19 +120,66 @@ gh repo create ai-awards-judge --public --source=. --remote=origin --push
 
 ## Current scoring engine
 
-The current `run` command is a v0 heuristic scoring engine for sanitized text entries. It:
+The `run` command now supports three modes:
 
-- parses text entry files
-- assigns rubric scores using evidence and keyword heuristics
-- ranks entries within category
-- writes JSON and markdown outputs
+- `heuristic`, local keyword-and-evidence scoring
+- `llm`, model-backed scoring with structured JSON output via an OpenAI-compatible API
+- `auto`, try LLM scoring first and fall back to heuristics if credentials or the API are unavailable
 
-Example:
+Every run writes:
+
+- `judged_entries.json`
+- `judged_entries.csv`
+- `judging_report.md`
+- `run_manifest.json`
+
+Each judged entry includes structured review metadata such as:
+
+- concise summary
+- cited evidence list
+- judge id
+- scoring mode
+
+Examples:
 
 ```bash
 ai-awards-judge run ./examples/sample_input --output-dir ./outputs
+ai-awards-judge run ./examples/sample_input --output-dir ./outputs --scoring-mode llm
 ```
 
-## Next build step
+### LLM scoring setup
 
-After this, the strongest upgrade is replacing or augmenting the heuristic engine with model-backed scoring plus multi-judge reconciliation.
+Set one of these before `--scoring-mode llm` or `auto`:
+
+```bash
+export OPENAI_API_KEY=...
+# optional overrides
+export AI_AWARDS_JUDGE_MODEL=gpt-4o-mini
+export AI_AWARDS_JUDGE_BASE_URL=https://api.openai.com/v1
+export AI_AWARDS_JUDGE_ID=judge-anca
+```
+
+### Multi-judge reconciliation
+
+Combine multiple judge JSON outputs into one consensus file:
+
+```bash
+ai-awards-judge reconcile judge_a/judged_entries.json judge_b/judged_entries.json --output-dir ./outputs/reconciled
+```
+
+This produces:
+
+- `reconciled_entries.json`
+- `reconciled_entries.csv`
+- `reconciliation_report.md`
+
+Each reconciled entry now includes:
+
+- averaged consensus scores
+- score range across judges
+- low, medium, or high disagreement level
+- verdict distribution and confidence distribution
+
+### CI
+
+A GitHub Actions workflow now runs the test suite on push and pull request.
