@@ -12,6 +12,7 @@ __pycache__/
 .DS_Store
 outputs/
 !.gitkeep
+private_intake/
 *.log
 award_review/.venv/
 award_review/.extract_state.json
